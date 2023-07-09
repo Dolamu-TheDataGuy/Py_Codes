@@ -1,0 +1,5 @@
+print("Welcome to the Football Mood status game!!!")
+name = input("Please enter your name?: ")
+club = input("Please football club do you support?: ")
+mood = input("How do you feel at the moment about your club?: ")
+print(f"{name} is a {club} fan, and {name} is currently {mood} about the club")

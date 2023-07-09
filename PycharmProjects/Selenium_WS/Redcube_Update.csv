@@ -1,0 +1,836 @@
+834,834,834,834,834,834,834,834,834,834,,834,,832
+SN,TP ID,Project ref,Region,Project type,Customer,Technology ,RFI date,RFI Year,Updated status ,Updated status as at 30-Jan-23,Next Task Pending with,Next Task Pending with as at 30-Jan-23,SBC
+1,IHS_ABJ_1573H,UC-201625,Abuja,Upgrade/Colo,Airtel,FE,08-Feb-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,Demfy Integrated Services Limited
+2,IHS_ABJ_1593H,UC-201618,Abuja,Upgrade/Colo,Airtel,FE,08-Feb-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,Demfy Integrated Services Limited
+3,IHS_ABJ_1161A,CO-200196,Abuja,Upgrade/Colo,Airtel,2G,18-Feb-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,TOTAL SECURE NIGERIA LIMITED
+4,IHS_EDO_0857A,UC-198394,Asaba,Upgrade/Colo,MTN,MLLH,24-Feb-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,EZZENTIAL GLOBAL SERVICES
+5,IHS_BAU_0776A,CO-205706,Kano,Upgrade/Colo,Airtel,2G,28-Mar-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,JARUS IMPERIAL NIGERIA LIMITED
+6,IHS_KEB_0841H,CO-209374,Kano,Consolidation,9Mobile,2G,29-Mar-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+7,IHS_OND_0879A,UC-198410,Ibadan,Upgrade/Colo,MTN,MLLH,01-Apr-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,GLOVTEX TELECOMMUNICATION LIMITED
+8,IHS_ABJ_0982A,CO-206211,Abuja,Upgrade/Colo,Spectranet,LTE,23-Apr-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,JARUS IMPERIAL NIGERIA LIMITED
+9,IHS_LAG_3870H,CO-200170,Lagos,Upgrade/Colo,Airtel,2G,09-May-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,IENGINEERING NIGERIA LIMITED
+10,IHS_KAT_0775A,UC-196423,Kano,Upgrade/Colo,Airtel,LTE 900,07-May-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,AR-SAEED INTERNATIONAL SERVICES LIMITED
+11,IHS_KAT_0933H,UC-196441,Kano,Upgrade/Colo,Airtel,LTE 900,07-May-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,AR-SAEED INTERNATIONAL SERVICES LIMITED
+12,IHS_RIV_1008A,UC-207349,PHC,Upgrade/Colo,MTN,5G,09-May-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+13,IHS_ONT_0049B,CO-210025,Asaba,Consolidation,9Mobile,2G,28-May-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,CENTDOOR LIMITED
+14,IHS_CRR_0771A,CO-210018,PHC,Consolidation,9Mobile,2G,31-May-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,EDGWARE CONCEPTS  LIMITED
+15,IHS_PLA_0721E,CO-212927,Abuja,Upgrade/Colo,Airtel,2G,04-Jun-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,JARUS IMPERIAL NIGERIA LIMITED
+16,IHS_ABJ_1573H,UC-208940,Abuja,Upgrade/Colo,Airtel,MW,04-Jun-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,JARUS IMPERIAL NIGERIA LIMITED
+17,IHS_ABJ_0969A,CO-212176,Abuja,Upgrade/Colo,Airtel,2G,06-Jun-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,TOTAL SECURE NIGERIA LIMITED
+18,IHS_LAG_1619A,CO-212016,Lagos,Upgrade/Colo,Natcom,Natcom,06-Jun-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+19,IHS_KAN_0820A,UC-207373,Kano,Upgrade/Colo,MTN,5G,08-Jun-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+20,IHS_GOM_0013B,CO-212874,Kano,Upgrade/Colo,Airtel,2G,19-Jun-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,JARUS IMPERIAL NIGERIA LIMITED
+21,IHS_LAG_3740B,UC-211070,Lagos,Upgrade/Colo,Airtel,IPRAN,24-Jun-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+22,IHS_LAG_0223B,UC-207266,Lagos,Upgrade/Colo,MTN,5G,20-Jun-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,GLOVTEX TELECOMMUNICATION LIMITED
+23,IHS_LAG_2793C,CO-210468,Lagos,Upgrade/Colo,Spectranet,LTE,20-Jun-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+24,IHS_LAG_2628C,CO-214815,Lagos,Upgrade/Colo,Cobranet,RF,25-Feb-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+25,IHS_LAG_3868H,UC-214653,Lagos,Upgrade/Colo,Dimension Data Limited,MW,03-Feb-22,H1 '22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by Rollout Project Manager,KAM,KAM,IHS
+26,IHS_RIV_0878A,UC-214085,PHC,Upgrade/Colo,Airtel,LTE 2600,01-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+27,IHS_BNU_0006B,UC-211759,Enugu,Upgrade/Colo,Airtel,MW,12-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,SNOWVIEW SUPPORT SERVICE LIMITED
+28,IHS_LAG_1072A,UC-210918,Lagos,Upgrade/Colo,Airtel,IPRAN,15-Jul-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+29,IHS_OYO_0780A,UC-207282,Ibadan,Upgrade/Colo,MTN,5G,13-Jul-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+30,IHS_ABI_0796A,UC-198416,Enugu,Upgrade/Colo,MTN,MLLH,14-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,WAPABAS ENGINEERING AND CONSTRUCTION LIMITED
+31,IHS_KEB_0751A,CO-214108,Kano,Consolidation,9Mobile,2G,21-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+32,IHS_RIV_1219A,CO-215070,PHC,Consolidation,9Mobile,2G,26-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,TELENOETICA LIMITED
+33,IHS_DEL_0947A,CO-212325,Asaba,Consolidation,9Mobile,2G,31-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,CONNIG TECHNOSERVE LIMITED
+34,IHS_LAG_1709A,UC-210036,Lagos,Upgrade/Colo,MTN,5G,29-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+35,IHS_LAG_0084V,UC-207263,Lagos,Upgrade/Colo,MTN,5G,29-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,GLOVTEX TELECOMMUNICATION LIMITED
+36,IHS_ABJ_1115A,CO-215245,Abuja,Upgrade/Colo,Airtel,2G,17-Jul-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,TOTAL SECURE NIGERIA LIMITED
+37,IHS_ABJ_1078A,CO-215250,Abuja,Upgrade/Colo,Airtel,2G,28-May-22,H1 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,JARUS IMPERIAL NIGERIA LIMITED
+38,IHS_IMO_0015V,CO-215075,Enugu,Upgrade/Colo,9Mobile,2G,15-Aug-22,Q3 '22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,CONNIG TECHNOSERVE LIMITED
+39,IHS_LAG_1090A,CO-217118,Lagos,Upgrade/Colo,Airtel,2G,18-Aug-22,Q3 '22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IENGINEERING NIGERIA LIMITED
+40,IHS_ADA_0777A,UC-198431,Kano,Upgrade/Colo,MTN,MLLH,15-Aug-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,Demfy Integrated Services Limited
+41,IHS_ANA_1117A,CO-212893,Asaba,Upgrade/Colo,Airtel,2G,19-Aug-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+42,IHS_DEL_1114A,CO-217127,Asaba,Upgrade/Colo,Airtel,2G,06-Sep-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,SNOWVIEW SUPPORT SERVICE LIMITED
+43,IHS_ANA_0873A,CO-217138,Asaba,Upgrade/Colo,Airtel,2G,02-Sep-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,EZZENTIAL GLOBAL SERVICES
+44,IHS_DEL_1129A,CO-217148,Asaba,Upgrade/Colo,Airtel,2G,21-Aug-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+45,IHS_KAT_0021B,UC-201692,Kano,Upgrade/Colo,Airtel,FE,20-Aug-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,AR-SAEED INTERNATIONAL SERVICES LIMITED
+46,IHS_LAG_1500A,UC-211034,Lagos,Upgrade/Colo,Airtel,IPRAN,29-Aug-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+47,IHS_ABJ_1143A_New,UC-216530,Abuja,Upgrade/Colo,Airtel,IPRAN,29-Aug-22,Q3 '22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,TOTAL SECURE NIGERIA LIMITED
+48,IHS_ABJ_0968A_New,UC-216531,Abuja,Upgrade/Colo,Airtel,IPRAN,25-Aug-22,Q3 '22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,TOTAL SECURE NIGERIA LIMITED
+49,IHS_BOR_0857A_New,UC-214094,Kano,Upgrade/Colo,Airtel,LTE 2600,29-Aug-22,Q3 '22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+50,IHS_LAG_0066Z,UC-214126,Lagos,Upgrade/Colo,Airtel,LTE 2600,25-Aug-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,BOLAMARK ENGINEERING LIMITED
+51,IHS_LAG_1382A,UC-214134,Lagos,Upgrade/Colo,Airtel,LTE 2600,24-Aug-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,BOLAMARK ENGINEERING LIMITED
+52,IHS_KAN_0904A,UC-196405,Kano,Upgrade/Colo,Airtel,LTE 900,20-Aug-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+53,IHS_ABJ_1595H_New,UC-215901,Abuja,Upgrade/Colo,MTN,5G,05-Sep-22,Q3 '22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,BOLAMARK ENGINEERING LIMITED
+54,IHS_EDO_0981A,CO-216524,Asaba,Upgrade/Colo,9Mobile,2G,10-Sep-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,EZZENTIAL GLOBAL SERVICES
+55,IHS_LAG_1745A,CO-215753,Lagos,Upgrade/Colo,9Mobile,2G,11-Oct-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,LAFRED ENGINEERING COMPANY LIMITED
+56,IHS_LAG_2004A,CO-215755,Lagos,Upgrade/Colo,9Mobile,2G,29-Sep-22,Q3 '22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+57,IHS_OGU_0234H,CO-215396,Lagos,Upgrade/Colo,9Mobile,2G,10-Sep-22,Q3 '22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IENGINEERING NIGERIA LIMITED
+58,IHS_PLA_0783A,CO-222456,Abuja,Upgrade/Colo,9Mobile,2G,05-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+59,IHS_ABI_1275B,CO-222459,Enugu,Upgrade/Colo,9Mobile,2G,13-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,SNOWVIEW SUPPORT SERVICE LIMITED
+60,IHS_ABI_0865A,CO-222464,Enugu,Upgrade/Colo,9Mobile,2G,13-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,EKM
+61,IHS_BNU_0964A,CO-222085,Enugu,Upgrade/Colo,9Mobile,2G,14-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,EKM
+62,IHS_IMO_0933A,UC-219609,Enugu,Upgrade/Colo,9Mobile,3G,22-Sep-22,Q3 '22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+63,IHS_ENG_0772A,CO-217083,Enugu,Upgrade/Colo,9Mobile,3G,26-Sep-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,EZZENTIAL GLOBAL SERVICES
+64,IHS_LAG_1772A,CO-226690,Lagos,Upgrade/Colo,Smile,LTE,15-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+65,IHS_ENG_0988A,CO-212876,Enugu,Upgrade/Colo,Airtel,2G,02-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,NUVERAS TECHNOLOGIES LIMITED
+66,IHS_LAG_1934A,CO-217095,Lagos,Upgrade/Colo,Airtel,2G,23-Sep-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,NUVERAS TECHNOLOGIES LIMITED
+67,IHS_LAG_1364A,CO-210030,Lagos,Upgrade/Colo,Airtel,2G,05-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+68,IHS_KAN_0866A,UC-201676,Kano,Upgrade/Colo,Airtel,FE,13-Sep-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+69,IHS_KAT_0827A,UC-216504,Kano,Upgrade/Colo,Airtel,FE,17-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+70,IHS_LAG_0272B,UC-210981,Lagos,Upgrade/Colo,Airtel,IPRAN,03-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+71,IHS_OGN_1334A,UC-216629,Lagos,Upgrade/Colo,Airtel,IPRAN,23-Sep-22,Q3 '22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,IENGINEERING NIGERIA LIMITED
+72,IHS_LAG_0612B,UC-216883,Lagos,Upgrade/Colo,Airtel,LTE 2600,05-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,EZZENTIAL GLOBAL SERVICES
+73,IHS_LAG_1027A,UC-214122,Lagos,Upgrade/Colo,Airtel,LTE 2600,12-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+74,IHS_KAT_0848A,UC-185044,Kano,Upgrade/Colo,Airtel,MW,13-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+75,IHS_ABJ_1587H,UC-211781,Abuja,Upgrade/Colo,Airtel,MW,16-Sep-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,AR-SAEED INTERNATIONAL SERVICES LIMITED
+76,IHS_LAG_0910E,UC-217023,Lagos,Upgrade/Colo,Airtel,MW,30-Sep-22,Q3 '22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+77,IHS_OGN_1335A,UC-217045,Lagos,Upgrade/Colo,Airtel,MW,17-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,DOMITECH ENGINEERING SERVICES LIMITED
+78,IHS_LAG_3323C,UC-215840,Lagos,Upgrade/Colo,MTN,5G,27-Sep-22,Q3 '22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,Shenymann Projectplus Ltd
+79,IHS_LAG_1653A_New,UC-215851,Lagos,Upgrade/Colo,MTN,5G,06-Oct-22,Q4'22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,Bedrock Multifunctions Limited
+80,IHS_LAG_0748E,UC-215842,Lagos,Upgrade/Colo,MTN,5G,11-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,IENGINEERING NIGERIA LIMITED
+81,IHS_LAG_3412B,UC-215853,Lagos,Upgrade/Colo,MTN,5G,27-Sep-22,Q3 '22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,Shenymann Projectplus Ltd
+82,IHS_LAG_0926E,UC-215843,Lagos,Upgrade/Colo,MTN,5G,06-Oct-22,Q4'22,TLA Failed and Power Analysis Submitted,TLA Failed and Power Analysis Submitted,Infra Manager (PMO),Infra Manager,Bedrock Multifunctions Limited
+83,IHS_LAG_0049B,UC-215863,Lagos,Upgrade/Colo,MTN,5G,05-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,LAFRED ENGINEERING COMPANY LIMITED
+84,IHS_LAG_1364A,UC-215854,Lagos,Upgrade/Colo,MTN,5G,05-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+85,IHS_LAG_0730E,UC-215844,Lagos,Upgrade/Colo,MTN,5G,03-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+86,IHS_LAG_0002B,UC-215838,Lagos,Upgrade/Colo,MTN,5G,05-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,GLOVTEX TELECOMMUNICATION LIMITED
+87,IHS_LAG_3931H_New,UC-215880,Lagos,Upgrade/Colo,MTN,5G,03-Oct-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,IHS
+88,IHS_LAG_3142B,UC-215911,Lagos,Upgrade/Colo,MTN,5G,27-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+89,IHS_LAG_1734A,UC-215941,Lagos,Upgrade/Colo,MTN,5G,03-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,NUVERAS TECHNOLOGIES LIMITED
+90,IHS_LAG_3767H,UC-216187,Lagos,Upgrade/Colo,MTN,5G,19-Sep-22,Q3 '22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IENGINEERING NIGERIA LIMITED
+91,IHS_LAG_0016B,UC-215916,Lagos,Upgrade/Colo,MTN,5G,03-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,BOLAMARK ENGINEERING LIMITED
+92,IHS_LAG_1787A,UC-215919,Lagos,Upgrade/Colo,MTN,5G,03-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,NUVERAS TECHNOLOGIES LIMITED
+93,IHS_LAG_1480A,UC-215980,Lagos,Upgrade/Colo,MTN,5G,03-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,IENGINEERING NIGERIA LIMITED
+94,IHS_LAG_1592A,UC-215981,Lagos,Upgrade/Colo,MTN,5G,03-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,IENGINEERING NIGERIA LIMITED
+95,IHS_LAG_3853H,UC-215985,Lagos,Upgrade/Colo,MTN,5G,06-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,SNOWVIEW SUPPORT SERVICE LIMITED
+96,IHS_ABJ_1033A_New,UC-215989,Abuja,Upgrade/Colo,MTN,5G,25-Sep-22,Q3 '22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,JARUS IMPERIAL NIGERIA LIMITED
+97,IHS_ABJ_0968A_New,UC-216019,Abuja,Upgrade/Colo,MTN,5G,11-Oct-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,JARUS IMPERIAL NIGERIA LIMITED
+98,IHS_ABJ_1139A,UC-216022,Abuja,Upgrade/Colo,MTN,5G,25-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+99,IHS_ABJ_1065A_New,UC-215999,Abuja,Upgrade/Colo,MTN,5G,25-Sep-22,Q3 '22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,JARUS IMPERIAL NIGERIA LIMITED
+100,IHS_AKW_0789A,UC-219704,PHC,Upgrade/Colo,MTN,5G,30-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,CONNIG TECHNOSERVE LIMITED
+101,IHS_DEL_0919A,UC-217502,Asaba,Upgrade/Colo,MTN,Eband,04-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+102,IHS_DEL_0819A,UC-217504,Asaba,Upgrade/Colo,MTN,Eband,28-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+103,IHS_ADA_0818A,UC-217519,Kano,Upgrade/Colo,MTN,Eband,21-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+104,IHS_YOB_0780A,UC-217530,Kano,Upgrade/Colo,MTN,Eband,12-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+105,IHS_KAN_0118B,UC-217541,Kano,Upgrade/Colo,MTN,Eband,12-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+106,IHS_KAT_0701E,UC-217531,Kano,Upgrade/Colo,MTN,Eband,12-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+107,IHS_KAN_0856A,UC-217574,Kano,Upgrade/Colo,MTN,Eband,17-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+108,IHS_BOR_0762A,UC-217567,Kano,Upgrade/Colo,MTN,Eband,10-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+109,IHS_LAG_3823H,UC-218461,Lagos,Upgrade/Colo,MTN,Eband,05-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+110,IHS_RIV_0801A,UC-211602,PHC,Upgrade/Colo,MTN,LTE 800,06-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,TELENOETICA LIMITED
+111,IHS_LAG_4379B,UC-201578,Lagos,BTS,Airtel,3G,01-Sep-22,Q3 '22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+112,IHS_LAG_4391B,UC-208764,Lagos,BTS,Airtel,3G,13-Oct-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+113,IHS_LAG_4392B,UC-208765,Lagos,BTS,Airtel,3G,25-Aug-22,Q3 '22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+114,IHS_LAG_4395B,UC-208768,Lagos,BTS,Airtel,3G,04-Oct-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+115,IHS_RIV_0010B,UC-214182,PHC,BTS,Airtel,3G,14-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+116,IHS_OGN_4008B,UC-193741,Lagos,BTS,Airtel,LTE,01-Aug-22,Q3 '22,BOQ Approved and Power Upgrade Not Required,RFI Completed,NQA,Rollout Project Manager,IHS
+117,IHS_LAG_4347B,UC-193949,Lagos,BTS,Airtel,LTE,12-Aug-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+118,IHS_KAN_0871A,UC-206771,Kano,Upgrade/Colo,Airtel/FE,FE,30-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+119,IHS_KAN_0124B,UC-216868,Kano,Upgrade/Colo,Airtel/L2600,L2600,18-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+120,IHS_OGN_0893A,UC-216893,Lagos,Upgrade/Colo,Airtel/L2600,L26,25-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+121,IHS_OYO_1307B,UC-216275,Ibadan,Upgrade/Colo,MTN/LTE,L26,25-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+122,IHS_LAG_0309B,UC-215846,Lagos,Upgrade/Colo,MTN/5G,5G,27-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+123,IHS_ABJ_0844A,UC-218475,Abuja,Upgrade/Colo,MTN/5G,5G,26-Oct-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,IHS
+124,IHS_KAN_0839A,UC-214543,Kano,Upgrade/Colo,MTN/Fiber,DWDM,27-Oct-22,Q4'22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,IHS
+125,IHS_BOR_0962B,UC-217552,Kano,Upgrade/Colo,MTN/Eband,Ericsson_eband,30-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+126,IHS_LAG_1141A,UC-228122,Lagos,Upgrade/Colo,MTN/Eband,Aviat_eband,26-Oct-22,Q4'22,TSS Completed,Civil Work Completed and Power Pending,PMO - TLA,Regional Rollout Manager,LAFRED ENGINEERING COMPANY LIMITED
+127,IHS_LAG_1792A,UC-221506,Lagos,Upgrade/Colo,MTN/Eband,5G,28-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+128,IHS_LAG_1372A,UC-218417,Lagos,Upgrade/Colo,MTN/Eband,LTE,26-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+129,IHS_LAG_1252A,UC-212570,Lagos,Upgrade/Colo,MTN/Eband,CTN,28-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+130,IHS_CRR_0815A,UC-219709,PHC,Upgrade/Colo,MTN/5G,5G,18-Oct-22,Q4'22,RFI Completed,RFI Acknowledged by KAM,RPM,KAM,FRAME ENGINEERING COMPANY LIMITED
+131,IHS_OGN_0745E,CO-227974,Lagos,Upgrade/Colo,MTN,2G,18-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,GLOVTEX TELECOMMUNICATION LIMITED
+132,IHS_LAG_4187B,CO-227983,Lagos,Upgrade/Colo,MTN,2G,25-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+133,IHS_ABJ_0087B,CO-227948,Abuja,Upgrade/Colo,MTN,2G,26-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,GLOVTEX TELECOMMUNICATION LIMITED
+134,IHS_RIV_0762E,CO-227986,PHC,Upgrade/Colo,MTN,2G,26-Oct-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,TELENOETICA LIMITED
+135,IHS_LAG_0200V,CO-227984,Lagos,Upgrade/Colo,MTN,2G,18-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+136,IHS_CRR_0797A,UC-227033,PHC,Upgrade/Colo,MTN/MW,L26,29-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+137,IHS_EDO_0790A,CO-220600,Asaba,Upgrade/Colo,Smile,LTE,28-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+138,IHS_DEL_0979A,CO-230536,Asaba,Upgrade/Colo,Smile,LTE,28-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+139,IHS_EDO_1085C,CO-230533,Asaba,Upgrade/Colo,Smile,LTE,30-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,EKM
+140,IHS_EDO_0939A,CO-230537,Asaba,Upgrade/Colo,Smile,LTE,03-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EZZENTIAL GLOBAL SERVICES
+141,IHS_KWA_0892A,UC-212660,Ibadan,Upgrade/Colo,Airtel,MW,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+142,IHS_OGN_1304A,UC-228051,Lagos,Upgrade/Colo,MTN,L26,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+143,IHS_LAG_1598A,UC-228055,Lagos,Upgrade/Colo,MTN,L7,5-Dec-22,Q4'22,Civil Work Completed and Power Pending (Non conventional Power),BOQ Approved and Power Upgrade Not Required,RRM,NQA,Shenymann Projectplus Ltd
+144,IHS_ABJ_0966A,UC-215902,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+145,IHS_ABJ_0785A,UC-215892,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+146,IHS_ABJ_0850A,UC-215883,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+147,IHS_ABJ_0943A,UC-215894,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+148,IHS_ABJ_1023A,UC-215897,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,TOTAL SECURE NIGERIA LIMITED
+149,IHS_ABJ_1156A,UC-215910,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,TOTAL SECURE NIGERIA LIMITED
+150,IHS_ABJ_0914A,UC-216023,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,JARUS IMPERIAL NIGERIA LIMITED
+151,IHS_LAG_0050B,UC-221243,Lagos,Upgrade/Colo,Airtel,MW,4-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+152,IHS_LAG_3868H,UC-221235,Lagos,Upgrade/Colo,Airtel,MW,4-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+153,IHS_LAG_1827A,UC-221245,Lagos,Upgrade/Colo,Airtel,MW,4-Dec-22,Q4'22,TLA Failed and Power Analysis Submitted,TLA Failed and Power Analysis Submitted,Infra Manager (PMO),Infra Manager,LAFRED ENGINEERING COMPANY LIMITED
+154,IHS_KAD_1523B,CO-227951,Abuja,Upgrade/Colo,MTN,2G,5-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,TOTAL SECURE NIGERIA LIMITED
+155,IHS_ABJ_0946A,UC-226969,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,JARUS IMPERIAL NIGERIA LIMITED
+156,IHS_ABJ_0888A,UC-227008,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,TOTAL SECURE NIGERIA LIMITED
+157,IHS_ABJ_1384C,UC-226986,Abuja,Upgrade/Colo,MTN,5G,7-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,JARUS IMPERIAL NIGERIA LIMITED
+158,IHS_ABJ_1110A,UC-227009,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,TOTAL SECURE NIGERIA LIMITED
+159,IHS_ABJ_0825A,UC-226987,Abuja,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,TOTAL SECURE NIGERIA LIMITED
+160,IHS_LAG_1130A,UC-226900,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+161,IHS_LAG_1993A,UC-226883,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+162,IHS_LAG_1089A,UC-226882,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+163,IHS_LAG_1893A,UC-226877,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+164,IHS_LAG_1834A,UC-226865,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+165,IHS_LAG_0264B,UC-226864,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+166,IHS_LAG_0294B,UC-226842,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+167,IHS_LAG_1971A,UC-226832,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+168,IHS_LAG_1778A,UC-226815,Lagos,Upgrade/Colo,MTN,NFE_Growth,4-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+169,IHS_LAG_1795A,UC-226814,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+170,IHS_LAG_1598A,UC-226810,Lagos,Upgrade/Colo,MTN,NFE_Growth,5-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Shenymann Projectplus Ltd
+171,IHS_LAG_1524A,UC-219935,Lagos,Upgrade/Colo,MTN,NFE_Growth,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+172,IHS_ABJ_0271B,UC-219901,Abuja,Upgrade/Colo,MTN,NFE_Growth,8-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+173,IHS_ABJ_1413C,UC-219876,Abuja,Upgrade/Colo,MTN,NFE_Growth,5-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+174,IHS_ABJ_0277C,UC-219851,Abuja,Upgrade/Colo,MTN,NFE_Growth,5-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+175,IHS_OYO_1354B,UC-229096,Ibadan,Upgrade/Colo,Airtel,3G,6-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+176,IHS_KWA_0789A,UC-227521,Ibadan,Upgrade/Colo,MTN,L26,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+177,IHS_ILO_0041B,UC-227517,Ibadan,Upgrade/Colo,MTN,L26,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+178,IHS_RIV_0816A,UC-227466,PHC,Upgrade/Colo,MTN,L7+L8+L18+L26,4-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+179,IHS_RIV_0801A,UC-227455,PHC,Upgrade/Colo,MTN,L1800,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,TELENOETICA LIMITED
+180,IHS_PHC_1031C,UC-227445,PHC,Upgrade/Colo,MTN,L7+L8+L18+L26,4-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+181,IHS_BAY_0706E,CO-229025,PHC,Upgrade/Colo,MTN,2G,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+182,IHS_RIV_1355A,UC-230528,PHC,Upgrade/Colo,Airtel,3G,8-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+183,IHS_ABJ_0938A,UC-231273,Abuja,Upgrade/Colo,Airtel,3G,5-Dec-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,IHS
+184,IHS_ANA_1061A,CO-231251,Asaba,Upgrade/Colo,Airtel,2G,4-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+185,IHS_ANA_1061A,UC-231281,Asaba,Upgrade/Colo,Airtel,3G,4-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+186,IHS_EDO_1200B,CO-231238,Asaba,Upgrade/Colo,Airtel,2G,4-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,EKM
+187,IHS_ENG_0993A,UC-231300,Enugu,Upgrade/Colo,Airtel,3G,7-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+188,IHS_KAD_0707E,UC-231283,Abuja,Upgrade/Colo,Airtel,3G,5-Dec-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,IHS
+189,IHS_LAG_2013A,UC-231301,Lagos,Upgrade/Colo,Airtel,3G,6-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+190,IHS_OGN_1021A,UC-231284,Lagos,Upgrade/Colo,Airtel,3G,6-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+191,IHS_EDO_1200B,UC-231275,Asaba,Upgrade/Colo,Airtel,3G,4-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+192,IHS_RIV_0960A,CO-231256,PHC,Upgrade/Colo,Airtel,2G,4-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,Bedrock Multifunctions Limited
+193,IHS_PHC_0096B,UC-231306,PHC,Upgrade/Colo,Airtel,3G,7-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+194,IHS_PHC_0668C,UC-231296,PHC,Upgrade/Colo,Airtel,3G,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+195,IHS_PHC_0080B,UC-231307,PHC,Upgrade/Colo,Airtel,3G,7-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+196,IHS_RIV_1138A,UC-229390,PHC,Upgrade/Colo,MTN,5G,5-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,Bedrock Multifunctions Limited
+197,IHS_RIV_0884A,UC-229415,PHC,Upgrade/Colo,MTN,5G,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,Bedrock Multifunctions Limited
+198,IHS_RIV_1210A,UC-229416,PHC,Upgrade/Colo,MTN,5G,5-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,Bedrock Multifunctions Limited
+199,IHS_PHC_0164B,UC-229417,PHC,Upgrade/Colo,MTN,5G,4-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,CONNIG TECHNOSERVE LIMITED
+200,IHS_RIV_0824A,UC-229421,PHC,Upgrade/Colo,MTN,5G,5-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+201,IHS_PHC_0677C,UC-229397,PHC,Upgrade/Colo,MTN,5G,5-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,Bedrock Multifunctions Limited
+202,IHS_LAG_3775H,CO-231215,Lagos,Upgrade/Colo,Cyberspace,LTE,5-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+203,IHS_EDO_1044C,CO-230535,Asaba,Upgrade/Colo,Smile,LTE,6-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,EZZENTIAL GLOBAL SERVICES
+204,IHS_BEN_0720E ,CO-230538,Asaba,Upgrade/Colo,Smile,LTE,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+205,IHS_RIV_0960A,UC-231286,PHC,Upgrade/Colo,Airtel,3G,4-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+206,IHS_CRR_0781A,CO-231012,PHC,Upgrade/Colo,9Mobile,2G,7-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+207,IHS_PHC_0238B,UC-231011,PHC,Upgrade/Colo,9Mobile,3G,7-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+208,IHS_ABI_0013B,CO-227911,Enugu,Upgrade/Colo,MTN,2G,2-Oct-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,Shenymann Projectplus Ltd
+209,IHS_BNU_0764E,CO-227915,Asaba,Upgrade/Colo,MTN,2G,12-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,Shenymann Projectplus Ltd
+210,IHS_CRR_0718E,CO-227924,PHC,Upgrade/Colo,MTN,2G,12-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+211,IHS_ABJ_0288B,CO-227941,Abuja,Upgrade/Colo,MTN,2G,25-Sep-22,Q3 '22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+212,IHS_BNU_0703E,CO-227935,Asaba,Upgrade/Colo,MTN,2G,18-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,Star Solutions
+213,IHS_KAD_0705E,CO-227944,Abuja,Upgrade/Colo,MTN,2G,25-Sep-22,Q3 '22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+214,IHS_KAD_1369B,CO-227950,Abuja,Upgrade/Colo,MTN,2G,25-Sep-22,Q3 '22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,GLOVTEX TELECOMMUNICATION LIMITED
+215,IHS_ZAR_0007B,CO-227964,Abuja,Upgrade/Colo,MTN,2G,25-Sep-22,Q3 '22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+216,IHS_BAU_1023B,CO-227926,Abuja,Upgrade/Colo,MTN,2G,8-Oct-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,Bedrock Multifunctions Limited
+217,IHS_BAU_1003B,CO-227913,Abuja,Upgrade/Colo,MTN,2G,22-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,Bedrock Multifunctions Limited
+218,IHS_OGN_4005B,CO-227968,Lagos,Upgrade/Colo,MTN,2G,31-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+219,IHS_LAG_4247B,CO-227988,Lagos,Upgrade/Colo,MTN,2G,31-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+220,IHS_LAG_4265B,CO-227982,Lagos,Upgrade/Colo,MTN,2G,31-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+221,IHS_KAT_0997B,CO-227973,Kano,Upgrade/Colo,MTN,2G,2-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,Bedrock Multifunctions Limited
+222,IHS_KAN_1201H,CO-228387,Kano,Upgrade/Colo,MTN,2G,3-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+223,IHS_BAU_0737E,CO-227933,Abuja,Upgrade/Colo,MTN,2G,7-Nov-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,Bedrock Multifunctions Limited
+224,IHS_KEB_0729E,CO-227956,Kano,Upgrade/Colo,MTN,2G,7-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,Bedrock Multifunctions Limited
+225,IHS_BNU_0015B,CO-227914,Asaba,Upgrade/Colo,MTN,2G,12-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Star Solutions
+226,IHS_KAN_0750E,CO-227952,Kano,Upgrade/Colo,MTN,2G,14-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+227,IHS_ABJ_0055B,CO-227947,Abuja,Upgrade/Colo,MTN,2G,14-Sep-22,Q3 '22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+228,IHS_OGU_0227H,CO-227971,Lagos,Upgrade/Colo,MTN,2G,21-Aug-22,Q3 '22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,LAFRED ENGINEERING COMPANY LIMITED
+229,IHS_KAN_0797E,CO-227959,Kano,Upgrade/Colo,MTN,2G,14-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,Bedrock Multifunctions Limited
+230,IHS_IMO_1339B,CO-227949,Enugu,Upgrade/Colo,MTN,2G,15-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Star Solutions
+231,IHS_BNU_0701E,CO-227920,Asaba,Upgrade/Colo,MTN,2G,16-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,EKM
+232,IHS_ENG_0736E,CO-227953,Enugu,Upgrade/Colo,MTN,2G,17-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,SNOWVIEW SUPPORT SERVICE LIMITED
+233,IHS_BAU_0903H,CO-227919,Asaba,Upgrade/Colo,MTN,2G,18-Nov-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,Bedrock Multifunctions Limited
+234,IHS_UYO_0009B,CO-227932,PHC,Upgrade/Colo,MTN,2G,23-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,TELENOETICA LIMITED
+235,IHS_AKW_0726E,CO-229018,PHC,Upgrade/Colo,MTN,2G,25-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+236,IHS_LAG_4214B,CO-229027,Lagos,Upgrade/Colo,MTN,2G,27-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+237,IHS_LAG_4243B,CO-229024,Lagos,Upgrade/Colo,MTN,2G,27-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+238,IHS_LAG_4268B,CO-229021,Lagos,Upgrade/Colo,MTN,2G,27-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+239,IHS_LAG_4217B,CO-229017,Lagos,Upgrade/Colo,MTN,2G,30-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+240,IHS_TAR_1033B,CO-229019,Kano,Upgrade/Colo,MTN,2G,2-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,TOTAL SECURE NIGERIA LIMITED
+241,IHS_TAR_1044B,CO-229023,Kano,Upgrade/Colo,MTN,2G,2-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,TOTAL SECURE NIGERIA LIMITED
+242,IHS_ADA_0731E,CO-227918,Kano,Upgrade/Colo,MTN,2G,3-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+243,IHS_BAU_1023B,UC-228185,Abuja,Upgrade/Colo,MTN,3G,8-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+244,IHS_UYO_0009B,UC-228183,PHC,Upgrade/Colo,MTN,3G,23-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+245,IHS_AKW_0726E,UC-229070,PHC,Upgrade/Colo,MTN,3G,25-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+246,IHS_TAR_1033B,UC-229071,Kano,Upgrade/Colo,MTN,3G,2-Dec-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,IHS
+247,IHS_TAR_1044B,UC-229038,Kano,Upgrade/Colo,MTN,3G,2-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,IHS
+248,IHS_ABJ_0055B,UC-228243,Abuja,Upgrade/Colo,MTN,3G,14-Nov-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,IHS
+249,IHS_EDO_0761A,UC-227473,Asaba,Upgrade/Colo,MTN,LTE 2600,31-Aug-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+250,IHS_OND_0777A,UC-227534,Ibadan,Upgrade/Colo,MTN,LTE 2600,18-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+251,IHS_ABJ_0288B,UC-228281,Abuja,Upgrade/Colo,MTN,3G,25-Sep-22,Q3 '22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,IHS
+252,IHS_BAU_1023B,UC-228196,Abuja,Upgrade/Colo,MTN,LTE 800,8-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+253,IHS_IMO_0041B,CO-227962,Enugu,Upgrade/Colo,MTN,2G,9-Nov-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,Star Solutions
+254,IHS_IMO_0041B,UC-228250,Enugu,Upgrade/Colo,MTN,4G,9-Nov-22,Q4'22,Civil Work Completed and Power Not Required,RFI Completed,RRM,Rollout Project Manager,IHS
+255,IHS_IMO_1339B,UC-228272,Enugu,Upgrade/Colo,MTN,LTE 800,15-Nov-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,IHS
+256,IHS_UYO_0009B,UC-228194,PHC,Upgrade/Colo,MTN,LTE 800,23-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+257,IHS_AKW_0726E,UC-229077,PHC,Upgrade/Colo,MTN,LTE 800,25-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+258,IHS_TAR_1033B,UC-229078,Kano,Upgrade/Colo,MTN,LTE 800,2-Dec-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,IHS
+259,IHS_TAR_1044B,UC-229055,Kano,Upgrade/Colo,MTN,LTE 800,2-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,IHS
+260,IHS_BAY_0706E,UC-229053,PHC,Upgrade/Colo,MTN,LTE 800,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+261,IHS_IMO_0704E,UC-228260,Enugu,Upgrade/Colo,MTN,4G,2-Dec-22,Q4'22,Civil Work Completed and Power Not Required,RFI Completed,RRM,Rollout Project Manager,IHS
+262,IHS_NAS_0909C,UC-209757,Abuja,Upgrade/Colo,MTN,LTE 700,28-Jul-22,Q3 '22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,IHS
+263,IHS_ABJ_0208B,UC-228232,Abuja,Upgrade/Colo,MTN,4G,25-Sep-22,Q3 '22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,IHS
+264,IHS_LAG_4214B,UC-229042,Lagos,Upgrade/Colo,MTN,LTE 700,27-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+265,IHS_LAG_4243B,UC-229064,Lagos,Upgrade/Colo,MTN,LTE 700,27-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+266,IHS_LAG_4268B,UC-229076,Lagos,Upgrade/Colo,MTN,LTE 700,27-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+267,IHS_LAG_4217B,UC-229052,Lagos,Upgrade/Colo,MTN,LTE 700,30-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+268,IHS_PLA_0001B,UC-206266,Abuja,Upgrade/Colo,MTN,Fiber,21-Jul-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+269,IHS_PLA_0048B,UC-206272,Abuja,Upgrade/Colo,MTN,Fibre,21-Jul-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+270,IHS_PLA_0028V,UC-206284,Abuja,Upgrade/Colo,MTN,Fiber,21-Jul-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+271,IHS_ABJ_1732B,UC-219910,Abuja,Upgrade/Colo,MTN,Fibre,31-Dec-21,2021,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+272,IHS_LAG_1386A,UC-212572,Lagos,Upgrade/Colo,MTN,Fiber Power,26-May-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,BOLAMARK ENGINEERING LIMITED
+273,IHS_NIG_0808A,UC-219890,Abuja,Upgrade/Colo,MTN,Fiber,6-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+274,IHS_ABJ_0880A,UC-219882,Abuja,Upgrade/Colo,MTN,Fiber,23-Feb-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+275,IHS_ABJ_1569H,UC-219863,Abuja,Upgrade/Colo,MTN,Fiber,22-Jan-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+276,IHS_ABJ_1588H,UC-219836,Abuja,Upgrade/Colo,MTN,Fiber,27-Jan-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+277,IHS_ABJ_0886A,UC-219892,Abuja,Upgrade/Colo,MTN,Fibre,10-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+278,IHS_ABJ_1558H,UC-219883,Abuja,Upgrade/Colo,MTN,Fiber,10-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+279,IHS_ABJ_1580H,UC-219925,Abuja,Upgrade/Colo,MTN,Fiber,14-Feb-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+280,IHS_ABJ_0895A,UC-219924,Abuja,Upgrade/Colo,MTN,Fiber,20-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+281,IHS_ABJ_0879A,UC-219912,Abuja,Upgrade/Colo,MTN,Fiber,20-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+282,IHS_ABJ_0742E,UC-219904,Abuja,Upgrade/Colo,MTN,Fiber,22-Jan-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+283,IHS_ABJ_1240B,UC-219886,Abuja,Upgrade/Colo,MTN,Fiber,20-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+284,IHS_ABJ_1484C,UC-219878,Abuja,Upgrade/Colo,MTN,Fiber,11-Oct-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+285,IHS_ABJ_0221B,UC-219869,Abuja,Upgrade/Colo,MTN,Fiber,20-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+286,IHS_ABJ_1130A,UC-219866,Abuja,Upgrade/Colo,MTN,Fibre,20-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+287,IHS_ABJ_1475C,UC-219865,Abuja,Upgrade/Colo,MTN,Fiber,20-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+288,IHS_ABJ_1132A,UC-219857,Abuja,Upgrade/Colo,MTN,Fiber,20-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+289,IHS_ABJ_1105A,UC-226991,Abuja,Upgrade/Colo,MTN,5G,30-Oct-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,AR-SAEED INTERNATIONAL SERVICES LIMITED
+290,IHS_ABJ_1061A,UC-219811,Abuja,Upgrade/Colo,MTN,Fiber,20-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+291,IHS_ABJ_1590H,UC-219893,Abuja,Upgrade/Colo,MTN,Fiber,30-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+292,IHS_ABJ_0706E,UC-219871,Abuja,Upgrade/Colo,MTN,Fiber,23-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+293,IHS_ABJ_1067A,UC-219831,Abuja,Upgrade/Colo,MTN,Fiber,22-Apr-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+294,IHS_ABJ_0981A,UC-219826,Abuja,Upgrade/Colo,MTN,Fiber,23-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+295,IHS_ABJ_1104A,UC-219824,Abuja,Upgrade/Colo,MTN,Fiber,23-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+296,IHS_ABJ_1745B,UC-226698,Abuja,Upgrade/Colo,MTN,Fiber,20-Jan-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+297,IHS_LAG_1387A,UC-226911,Lagos,Upgrade/Colo,MTN,Fiber,21-Mar-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+298,IHS_ABJ_1607H,UC-219915,Abuja,Upgrade/Colo,MTN,Fiber,25-May-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+299,IHS_ABJ_1246B,UC-219877,Abuja,Upgrade/Colo,MTN,Fiber,25-Aug-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+300,IHS_ABJ_1309C,UC-219875,Abuja,Upgrade/Colo,MTN,Fiber,14-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+301,IHS_ABJ_1269B,UC-219855,Abuja,Upgrade/Colo,MTN,Fiber,31-May-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+302,IHS_ABJ_1089A,UC-219842,Abuja,Upgrade/Colo,MTN,Fiber,24-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+303,IHS_ABJ_1046A,UC-219840,Abuja,Upgrade/Colo,MTN,Fiber,10-Aug-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+304,IHS_ABJ_1111A,UC-219820,Abuja,Upgrade/Colo,MTN,Fiber,19-Jan-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+305,IHS_LAG_1194A,UC-226724,Lagos,Upgrade/Colo,MTN,Fiber,8-Jun-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+306,IHS_KAN_0861A,UC-219916,Kano,Upgrade/Colo,MTN,Fiber,27-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+307,IHS_ABJ_0904A,UC-219891,Abuja,Upgrade/Colo,MTN,Fiber,7-Mar-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+308,IHS_ABJ_1565H,UC-219841,Abuja,Upgrade/Colo,MTN,Fiber,3-Apr-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+309,IHS_ABJ_1069A,UC-219810,Abuja,Upgrade/Colo,MTN,Fiber,28-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+310,IHS_LAG_1266A,UC-212571,Lagos,Upgrade/Colo,MTN,Fibre,29-Nov-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+311,IHS_ABJ_1146A,UC-219843,Abuja,Upgrade/Colo,MTN,Fiber,3-Jun-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+312,IHS_ABJ_1150A,UC-219856,Abuja,Upgrade/Colo,MTN,Fibre,14-Feb-22,H1 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Demfy Integrated Services Limited
+313,IHS_ABJ_1156A,UC-226726,Abuja,Upgrade/Colo,MTN,Fiber,6-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+314,IHS_ABJ_1145A,UC-226718,Abuja,Upgrade/Colo,MTN,Fiber,11-Sep-22,Q3 '22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+315,IHS_IMO_0777A,UC-212589,Enugu,Upgrade/Colo,MTN,DWDM,16-Dec-22,Q4'22,Civil Work Completed and Power Not Required,RFI Completed,RRM,Rollout Project Manager,CONNIG TECHNOSERVE LIMITED
+316,IHS_LAG_0522D,UC-211113,Lagos,Upgrade/Colo,Airtel,IPRAN,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+317,IHS_ABJ_0956A,CO-217603,Abuja,Upgrade/Colo,Spectranet,LTE,14-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,JARUS IMPERIAL NIGERIA LIMITED
+318,IHS_OND_0034B,UC-216917,Ibadan,Upgrade/Colo,Airtel,L26,17-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+319,IHS_LAG_3979H,UC-216229,Lagos,Upgrade/Colo,MTN,L26,9-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,AR-SAEED INTERNATIONAL SERVICES LIMITED
+320,IHS_LAG_0272B,UC-218469,Lagos,Upgrade/Colo,MTN,Aviat_eband,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+321,IHS_LAG_0762E,UC-218455,Lagos,Upgrade/Colo,MTN,Aviat_eband,9-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+322,IHS_AKW_0796A,UC-219710,PHC,Upgrade/Colo,MTN,5G,16-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+323,IHS_ENG_0026B,CO-227939,Enugu,Upgrade/Colo,MTN,2G,9-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Shenymann Projectplus Ltd
+324,IHS_ONT_0064B,CO-226744,Asaba,Upgrade/Colo,Airtel,2G,16-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+325,IHS_ONT_0064B,UC-226747,Asaba,Upgrade/Colo,Airtel,3G,16-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+326,IHS_ABJ_1615H,UC-226968,Abuja,Upgrade/Colo,MTN,5G,15-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,AR-SAEED INTERNATIONAL SERVICES LIMITED
+327,IHS_LAG_1227A,UC-226890,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+328,IHS_LAG_0622B,UC-226878,Lagos,Upgrade/Colo,MTN,NFE_Growth,9-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,BOLAMARK ENGINEERING LIMITED
+329,IHS_LAG_1886A,UC-226866,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+330,IHS_LAG_1884A,UC-220013,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,Upgrade Cancelled,Upgrade Cancelled,Cancelled,0,0
+331,IHS_LAG_1854A,UC-226849,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+332,IHS_LAG_0374B,UC-226829,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+333,IHS_LAG_1749A,UC-219996,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,Upgrade Cancelled,Upgrade Cancelled,Cancelled,0,0
+334,IHS_LAG_1934A,UC-226820,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+335,IHS_LAG_1512A,UC-226807,Lagos,Upgrade/Colo,MTN,NFE_Growth,9-Dec-22,Q4'22,BOQ Approved and Power Upgrade Not Required,RFI Completed,NQA,Rollout Project Manager,BOLAMARK ENGINEERING LIMITED
+336,IHS_LAG_0839E,UC-226804,Lagos,Upgrade/Colo,MTN,NFE_Growth,9-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+337,IHS_LAG_1577A,UC-226797,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+338,IHS_LAG_0869E,UC-226794,Lagos,Upgrade/Colo,MTN,NFE_Growth,9-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+339,IHS_LAG_1525A,UC-226793,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+340,IHS_LAG_1517A,UC-226787,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+341,IHS_LAG_0880E,UC-226781,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+342,IHS_LAG_1625A,UC-226777,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+343,IHS_LAG_2921C,UC-226775,Lagos,Upgrade/Colo,MTN,NFE_Growth,9-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+344,IHS_LAG_1173A,UC-220082,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,TELENOETICA LIMITED
+345,IHS_LAG_1543A,UC-219965,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+346,IHS_LAG_1495A,UC-219958,Lagos,Upgrade/Colo,MTN,NFE_Growth,10-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+347,IHS_PHC_0226C,UC-221939,PHC,Upgrade/Colo,MTN,NAMA EBU,11-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,TELENOETICA LIMITED
+348,IHS_RIV_0727E,UC-221931,PHC,Upgrade/Colo,MTN,NAMA EBU,11-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,Bedrock Multifunctions Limited
+349,IHS_BNY_0006B,UC-221924,PHC,Upgrade/Colo,MTN,NAMA EBU,11-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,Bedrock Multifunctions Limited
+350,IHS_RIV_0803A,UC-222836,PHC,Upgrade/Colo,MTN,NAMA EBU,11-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,0,Bedrock Multifunctions Limited
+351,IHS_RIV_0962A,CO-229195,PHC,Upgrade/Colo,Airtel,2G,14-Dec-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,Bedrock Multifunctions Limited
+352,IHS_RIV_0962A,UC-229219,PHC,Upgrade/Colo,Airtel,3G,14-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+353,IHS_EDO_0003B,CO-229217,Asaba,Upgrade/Colo,Airtel,2G,16-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,EKM
+354,IHS_EDO_0003B,UC-229241,Asaba,Upgrade/Colo,Airtel,3G,16-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+355,IHS_KWA_0892A,UC-227507,Ibadan,Upgrade/Colo,MTN,L7,16-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+356,IHS_ENG_1027A,UC-207846,Enugu,Upgrade/Colo,MTN,L8,9-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,CENTDOOR LIMITED
+357,IHS_ENG_1027A,UC-186686,Enugu,Upgrade/Colo,MTN,L18,9-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,0
+358,IHS_ENG_1027A,UC-207847,Enugu,Upgrade/Colo,MTN,L26,9-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+359,IHS_OYO_0872A,CO-230522,Ibadan,Upgrade/Colo,Airtel,2G,9-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+360,IHS_OYO_0872A,UC-230530,Ibadan,Upgrade/Colo,Airtel,3G,9-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+361,IHS_ABI_0718E,CO-231244,Enugu,Upgrade/Colo,Airtel,2G,14-Dec-22,Q4'22,BOQ Approved and Power Upgrade Not Required,RFI Completed,NQA,Rollout Project Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+362,IHS_ABI_0718E,UC-231290,Enugu,Upgrade/Colo,Airtel,3G,14-Dec-22,Q4'22,Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+363,IHS_ANA_1151A,CO-231258,Asaba,Upgrade/Colo,Airtel,2G,13-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+364,IHS_ANA_1151A,UC-231299,Asaba,Upgrade/Colo,Airtel,3G,13-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+365,IHS_LAG_1097A,CO-231240,Lagos,Upgrade/Colo,Airtel,2G,15-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,LAFRED ENGINEERING COMPANY LIMITED
+366,IHS_LAG_1097A,UC-231277,Lagos,Upgrade/Colo,Airtel,3G,15-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+367,IHS_IJB_0014B,CO-231247,Lagos,Upgrade/Colo,Airtel,2G,10-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,LAFRED ENGINEERING COMPANY LIMITED
+368,IHS_IJB_0014B,UC-231293,Lagos,Upgrade/Colo,Airtel,3G,10-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+369,IHS_OGN_0900A,CO-231261,Lagos,Upgrade/Colo,Airtel,2G,15-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,EKM
+370,IHS_OGN_0900A,UC-231302,Lagos,Upgrade/Colo,Airtel,3G,15-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+371,IHS_OGN_1247A,CO-231248,Lagos,Upgrade/Colo,Airtel,2G,15-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,EKM
+372,IHS_OGN_1247A,UC-231294,Lagos,Upgrade/Colo,Airtel,3G,15-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+373,IHS_OYO_0988A,CO-231262,Ibadan,Upgrade/Colo,Airtel,2G,9-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+374,IHS_OYO_0988A,UC-231303,Ibadan,Upgrade/Colo,Airtel,3G,9-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+375,IHS_OYO_1207H,CO-231242,Ibadan,Upgrade/Colo,Airtel,2G,9-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+376,IHS_OYO_1207H,UC-231279,Ibadan,Upgrade/Colo,Airtel,3G,9-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+377,IHS_PHC_1001B,CO-231270,PHC,Upgrade/Colo,Airtel,2G,14-Dec-22,Q4'22,TLA Report and Power Analysis Submitted,BOQ Approved and Power Upgrade Not Required,SBC,NQA,TELENOETICA LIMITED
+378,IHS_PHC_1001B,UC-231297,PHC,Upgrade/Colo,Airtel,3G,14-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+379,IHS_PHC_0806C,UC-229398,PHC,Upgrade/Colo,MTN,5G,11-Dec-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,CONNIG TECHNOSERVE LIMITED
+380,IHS_PHC_0689C,UC-229391,PHC,Upgrade/Colo,MTN,5G,15-Dec-22,Q4'22,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,CONNIG TECHNOSERVE LIMITED
+381,IHS_ENG_1109A,UC-229394,Enugu,Upgrade/Colo,MTN,5G,9-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,EZZENTIAL GLOBAL SERVICES
+382,IHS_LAG_1600A,CO-231212,Lagos,Upgrade/Colo,Cyberspace,LTE/MW,9-Dec-22,Q4'22,Civil Work Completed and Power Not Required,BOQ Approved and Power Upgrade Not Required,RRM,NQA,EKM
+383,IHS_LAG_0189V,CO-230793,Lagos,Upgrade/Colo,9Mobile,2G,10-Dec-22,Q4'22,Civil Work Completed and Power Not Required,BOQ Approved and Power Upgrade Not Required,RRM,NQA,NUVERAS TECHNOLOGIES LIMITED
+384,IHS_LAG_3767H,UC-221503,Lagos,Upgrade/Colo,MTN,TX Mod,10-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+385,IHS_RIV_0848A,UC-229186,PHC,Upgrade/Colo,MTN,NAMA EBU,11-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+386,IHS_AKW_0935A,CO-231014,PHC,Upgrade/Colo,9Mobile,9Mobile,11-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,0,TELENOETICA LIMITED
+387,IHS_PHC_0723C,CO-231384,PHC,Upgrade/Colo,Smile,LTE,11-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,SNOWVIEW SUPPORT SERVICE LIMITED
+388,IHS_PHC_0677C,UC-232382,PHC,Upgrade/Colo,Airtel,LTE,11-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,Bedrock Multifunctions Limited
+389,IHS_LAG_1357A,UC-214123,Lagos,Upgrade/Colo,Airtel,L2600,12-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+390,IHS_LAG_1438A,CO-231323,Lagos,Upgrade/Colo,Cyberspace,LTE/MW,12-Dec-22,Q4'22,Civil Work Completed and Power Not Required,BOQ Approved and Power Upgrade Not Required,RRM,NQA,EKM
+391,IHS_ABJ_1146A,CO-231324,Abuja,Upgrade/Colo,Cyberspace,Relocation,13-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,JARUS IMPERIAL NIGERIA LIMITED
+392,IHS_JIG_0018B,UC-232415,Kano,Upgrade/Colo,Airtel,MW,14-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+393,IHS_KAN_0001B,UC-232388,Kano,Upgrade/Colo,Airtel,L2600,14-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+394,IHS_EKI_0737A,CO-230856,Ibadan,Upgrade/Colo,9Mobile,2G,14-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+395,IHS_EKI_0737A,UC-230855,Ibadan,Upgrade/Colo,9Mobile,3G,14-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+396,IHS_ABJ_1366C,UC-232369,Abuja,Upgrade/Colo,Airtel,L2600,14-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+397,IHS_NIG_0950A,UC-232362,Abuja,Upgrade/Colo,Airtel,L2600,14-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+398,IHS_ABJ_1039A,UC-151580,Abuja,Upgrade/Colo,Airtel,L2600,14-Dec-22,Q4'22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,IHS
+399,IHS_NAS_0839A,UC-232380,Abuja,Upgrade/Colo,Airtel,L2600,14-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+400,IHS_NAS_0847A,UC-232381,Abuja,Upgrade/Colo,Airtel,L2600,14-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+401,IHS_ABJ_1811B,UC-232360,Abuja,Upgrade/Colo,Airtel,L2600,14-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,0
+402,IHS_ABJ_0020B,UC-232391,Abuja,Upgrade/Colo,Airtel,L2600,15-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+403,IHS_PHC_0707C,CO-232335,Abuja,Upgrade/Colo,Airtel,2G,15-Dec-22,Q4'22,Contractor Approved,Site Engineer Assigned,RRM,SBC,Bedrock Multifunctions Limited
+404,IHS_PHC_0707C,UC-232337,Abuja,Upgrade/Colo,Airtel,3G,15-Dec-22,Q4'22,Contractor Approved,TSS Completed,RRM,PMO - TLA,IHS
+405,IHS_EKI_0729A,CO-230853,Ibadan,Upgrade/Colo,9Mobile,2G,17-Dec-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,EKM
+406,IHS_OGN_0994A,UC-202006,Lagos,Upgrade/Colo,MTN,L8,22-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+407,IHS_OGN_0994A,UC-203824,Lagos,Upgrade/Colo,MTN,L26,22-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,BOLAMARK ENGINEERING LIMITED
+408,IHS_OGN_0751E,UC-208950,Lagos,Upgrade/Colo,Airtel,MW,20-Dec-22,Q4'22,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,EZZENTIAL GLOBAL SERVICES
+409,IHS_OGU_0203H,UC-216903,Lagos,Upgrade/Colo,Airtel,L26,23-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+410,IHS_LAG_4201B,UC-217041,Lagos,Upgrade/Colo,Airtel,MW,22-Dec-22,Q4'22,Civil Work Completed and Power Pending,BOQ Approved and Power Upgrade Not Required,RRM,NQA,EKM
+411,IHS_DEL_1171A,CO-220578,Asaba,Upgrade/Colo,Airtel,2G,21-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,CONNIG TECHNOSERVE LIMITED
+412,IHS_DEL_1171A,UC-220588,Asaba,Upgrade/Colo,Airtel,3G,21-Dec-22,Q4'22,RFI Failed,RFI Failed,RRM,Regional Rollout Manager,IHS
+413,IHS_PHC_0205B,CO-220581,PHC,Upgrade/Colo,Airtel,2G,21-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,CENTDOOR LIMITED
+414,IHS_PHC_0205B,UC-220590,PHC,Upgrade/Colo,Airtel,3G,21-Dec-22,Q4'22,TLA Report and Power Analysis Submitted,BOQ Approved and Power Upgrade Not Required,SBC,NQA,IHS
+415,IHS_LAG_1784A,UC-221246,Lagos,Upgrade/Colo,Airtel,MW,22-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+416,IHS_YOB_0747A,UC-219529,Kano,Upgrade/Colo,MTN,Aviat_Swap,19-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+417,IHS_BNU_0705E,CO-227928,Enugu,Upgrade/Colo,MTN,2G,21-Dec-22,Q4'22,TLA Failed and Power Analysis Submitted,TLA Failed and Power Analysis Submitted,Infra Manager (PMO),Infra Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+418,IHS_BNU_0705E,UC-228189,Enugu,Upgrade/Colo,MTN,3G,21-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+419,IHS_BNU_0705E,UC-228200,Enugu,Upgrade/Colo,MTN,4G,21-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+420,IHS_ABJ_1079A,UC-226989,Abuja,Upgrade/Colo,MTN,5G,19-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,TOTAL SECURE NIGERIA LIMITED
+421,IHS_LAG_1196A,UC-226901,Lagos,Upgrade/Colo,MTN,NFE_Growth,20-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,TELENOETICA LIMITED
+422,IHS_LAG_2627C,UC-226855,Lagos,Upgrade/Colo,MTN,NFE_Growth,20-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,BOLAMARK ENGINEERING LIMITED
+423,IHS_LAG_1985A,UC-226852,Lagos,Upgrade/Colo,MTN,NFE_Growth,22-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+424,IHS_LAG_1913A,UC-226841,Lagos,Upgrade/Colo,MTN,NFE_Growth,22-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+425,IHS_LAG_1764A,UC-226818,Lagos,Upgrade/Colo,MTN,NFE_Growth,22-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+426,IHS_LAG_0971E,UC-226776,Lagos,Upgrade/Colo,MTN,NFE_Growth,22-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+427,IHS_ABJ_1615H,UC-219848,Abuja,Upgrade/Colo,MTN,NFE_Growth,19-Dec-22,Q4'22,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,0
+428,IHS_ZAM_0728A,UC-226735,Kano,Upgrade/Colo,MTN,CTN,19-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+429,IHS_OYO_1055A,CO-229215,Ibadan,Upgrade/Colo,Airtel,2G,20-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,EKM
+430,IHS_OYO_1055A,UC-229239,Ibadan,Upgrade/Colo,Airtel,3G,20-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+431,IHS_EDO_0905A,UC-227528,Asaba,Upgrade/Colo,MTN,L26,21-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+432,IHS_BEN_0729E,UC-227513,Asaba,Upgrade/Colo,MTN,L26,21-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+433,IHS_ILO_0061C,UC-227488,Ibadan,Upgrade/Colo,MTN,L26,19-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+434,IHS_OYO_0945A,UC-227539,Ibadan,Upgrade/Colo,MTN,L7,19-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+435,IHS_EDO_1101C,UC-227515,Asaba,Upgrade/Colo,MTN,L7,21-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+436,IHS_KWA_0800A,UC-227532,Ibadan,Upgrade/Colo,MTN,L7,19-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+437,IHS_EDO_1230B,UC-227514,Asaba,Upgrade/Colo,MTN,L7,21-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+438,IHS_EDO_1061C,UC-187854,Asaba,Upgrade/Colo,MTN,L8,21-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+439,IHS_EDO_1061C,UC-194074,Asaba,Upgrade/Colo,MTN,L18,21-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+440,IHS_EDO_1061C,UC-227437,Asaba,Upgrade/Colo,MTN,L26,21-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+441,IHS_KWA_0739A,UC-182337,Ibadan,Upgrade/Colo,MTN,L8,19-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,IHS
+442,IHS_KWA_0739A,UC-171421,Ibadan,Upgrade/Colo,MTN,L18,19-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,0
+443,IHS_KWA_0739A,UC-227468,Ibadan,Upgrade/Colo,MTN,L26,19-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+444,IHS_EDO_0756A,UC-182331,Asaba,Upgrade/Colo,MTN,L8,21-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+445,IHS_EDO_0756A,UC-186746,Asaba,Upgrade/Colo,MTN,L18,21-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,0
+446,IHS_EDO_0756A,UC-227463,Asaba,Upgrade/Colo,MTN,L26,21-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+447,IHS_DEL_0886A,UC-105580,Asaba,Upgrade/Colo,MTN,L8,21-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+448,IHS_DEL_0886A,UC-186364,Asaba,Upgrade/Colo,MTN,L18,21-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,0
+449,IHS_DEL_0886A,UC-227462,Asaba,Upgrade/Colo,MTN,L26,21-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+450,IHS_RIV_1283A,UC-227424,PHC,Upgrade/Colo,MTN,L7,20-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+451,IHS_RIV_1283A,UC-211592,PHC,Upgrade/Colo,MTN,L8,20-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+452,IHS_RIV_1283A,UC-227444,PHC,Upgrade/Colo,MTN,L18,20-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+453,IHS_RIV_1283A,UC-132410,PHC,Upgrade/Colo,MTN,L26,20-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,TELENOETICA LIMITED
+454,IHS_ENG_0767A,UC-202487,Enugu,Upgrade/Colo,MTN,L8,20-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+455,IHS_ENG_0767A,UC-203508,Enugu,Upgrade/Colo,MTN,L26,20-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+456,IHS_ABJ_0044B,CO-229022,Abuja,Upgrade/Colo,MTN,2G,19-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,TOTAL SECURE NIGERIA LIMITED
+457,IHS_ABJ_0044B,UC-229037,Abuja,Upgrade/Colo,MTN,3G,19-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,IHS
+458,IHS_OYO_1043A,CO-230518,Ibadan,Upgrade/Colo,Airtel,2G,20-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+459,IHS_OYO_1043A,UC-230526,Ibadan,Upgrade/Colo,Airtel,3G,20-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+460,IHS_ENG_0840A,UC-229402,Enugu,Upgrade/Colo,MTN,5G,23-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EZZENTIAL GLOBAL SERVICES
+461,IHS_ENU_0102H,UC-229414,Enugu,Upgrade/Colo,MTN,5G,20-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,Bedrock Multifunctions Limited
+462,IHS_AKW_1036C,CO-234340,PHC,Upgrade/Colo,Airtel,2G,23-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,CENTDOOR LIMITED
+463,IHS_AKW_1036C,UC-234349,PHC,Upgrade/Colo,Airtel,3G,23-Dec-22,Q4'22,RFI Completed,RFI Acknowledged by Rollout Project Manager,RPM,KAM,IHS
+464,IHS_RIV_0999A,CO-234342,PHC,Upgrade/Colo,Airtel,2G,20-Dec-22,Q4'22,Colocation Process Initiated,Colocation Process Initiated,HOR,Head Of Region,0
+465,IHS_RIV_0999A,UC-234353,PHC,Upgrade/Colo,Airtel,3G,20-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+466,IHS_OGN_1314A,CO-234339,Lagos,Upgrade/Colo,Airtel,2G,20-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,LAFRED ENGINEERING COMPANY LIMITED
+467,IHS_OGN_1314A,UC-234352,Lagos,Upgrade/Colo,Airtel,3G,20-Dec-22,Q4'22,Civil Work Completed and Power Not Required,RFI Acknowledged by Rollout Project Manager,RRM,KAM,IHS
+468,IHS_KAD_1047A,CO-234343,Abuja,Upgrade/Colo,Airtel,2G,19-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,JARUS IMPERIAL NIGERIA LIMITED
+469,IHS_KAD_1047A,UC-234354,Abuja,Upgrade/Colo,Airtel,3G,19-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,0
+470,IHS_SOK_0764A,UC-212732,Kano,Upgrade/Colo,MTN,TX Mod,19-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+471,IHS_AKW_0893A,CO-234559,PHC,Upgrade/Colo,9Mobile,2G,20-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,CENTDOOR LIMITED
+472,IHS_OSU_0834A,UC-234587,Ibadan,Upgrade/Colo,MTN,Huawei_MW,21-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+473,IHS_KAN_0804A,UC-232003,Kano,Upgrade/Colo,MTN,5G,22-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,0
+474,IHS_KAN_0810A,UC-232005,Kano,Upgrade/Colo,MTN,5G,22-Dec-22,Q4'22,TSS Completed,BOQ Approved and Power Upgrade Not Required,PMO - TLA,NQA,0
+475,IHS_KAN_1025A,UC-231554,Kano,Upgrade/Colo,MTN,5G,22-Dec-22,Q4'22,TSS Completed,BOQ Approved and Power Upgrade Not Required,PMO - TLA,NQA,0
+476,IHS_BNU_0806A,UC-234326,Enugu,Upgrade/Colo,MTN,TX,22-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,NUVERAS TECHNOLOGIES LIMITED
+477,IHS_LAG_1774A,UC-210993,Lagos,Upgrade/Colo,Airtel,IPRAN,30-Dec-22,Q4'22,BOQ Approved and Power Upgrade Completed,RFI Completed,NQA,Rollout Project Manager,0
+478,IHS_CRR_0900A,UC-226783,PHC,Upgrade/Colo,MTN,NFE_Growth,29-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+479,IHS_OGN_1096A,CO-229203,Lagos,Upgrade/Colo,Airtel,2G,31-Dec-22,Q4'22,TSS Completed,TSS Completed,PMO - TLA,0,LAFRED ENGINEERING COMPANY LIMITED
+480,IHS_OGN_1096A,UC-229227,Lagos,Upgrade/Colo,Airtel,3G,31-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+481,IHS_WAR_0022B,UC-227511,Asaba,Upgrade/Colo,MTN,L26,30-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+482,IHS_ANA_1232A,UC-227490,Asaba,Upgrade/Colo,MTN,L26,30-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+483,IHS_EDO_1236B,UC-227485,Asaba,Upgrade/Colo,MTN,L7,30-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+484,IHS_ANA_1269C,UC-227479,Asaba,Upgrade/Colo,MTN,L7,30-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+485,IHS_EDO_0982A,UC-227483,Asaba,Upgrade/Colo,MTN,L7,30-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+486,IHS_ANA_0866A,UC-196036,Asaba,Upgrade/Colo,MTN,L7,30-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+487,IHS_ANA_0866A,UC-182311,Asaba,Upgrade/Colo,MTN,L8,30-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+488,IHS_ANA_0866A,UC-227474,Asaba,Upgrade/Colo,MTN,L26,30-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+489,IHS_ANA_0920A,UC-184274,Asaba,Upgrade/Colo,MTN,L7,30-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+490,IHS_ANA_0920A,UC-101561,Asaba,Upgrade/Colo,MTN,L8,30-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,ACORIN LIMITED
+491,IHS_ANA_0920A,UC-227475,Asaba,Upgrade/Colo,MTN,L26,30-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+492,IHS_ANA_1458C,UC-196095,Asaba,Upgrade/Colo,MTN,L7,30-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+493,IHS_ANA_1458C,UC-171277,Asaba,Upgrade/Colo,MTN,L8,30-Dec-22,Q4'22,RFI Failed,RFI Failed,RRM,Regional Rollout Manager,IHS
+494,IHS_ANA_1458C,UC-227436,Asaba,Upgrade/Colo,MTN,L26,30-Dec-22,Q4'22,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+495,IHS_IMO_0859A,UC-198729,Enugu,Upgrade/Colo,MTN,L7,29-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+496,IHS_IMO_0859A,UC-110295,Enugu,Upgrade/Colo,MTN,L8,29-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+497,IHS_IMO_0859A,UC-227470,Enugu,Upgrade/Colo,MTN,L26,29-Dec-22,Q4'22,Civil Work Completed and Power Not Required,RFI Completed,RRM,Rollout Project Manager,IHS
+498,IHS_RIV_0823A,UC-211616,PHC,Upgrade/Colo,MTN,L8,29-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+499,IHS_RIV_0823A,UC-227461,PHC,Upgrade/Colo,MTN,L18,29-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+500,IHS_RIV_0823A,UC-131067,PHC,Upgrade/Colo,MTN,L26,29-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,SNOWVIEW SUPPORT SERVICE LIMITED
+501,IHS_RIV_0900A,UC-211621,PHC,Upgrade/Colo,MTN,L8,29-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+502,IHS_RIV_0900A,UC-227457,PHC,Upgrade/Colo,MTN,L18,29-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+503,IHS_RIV_0900A,UC-131346,PHC,Upgrade/Colo,MTN,L26,29-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,SNOWVIEW SUPPORT SERVICE LIMITED
+504,IHS_RIV_0968A,UC-211627,PHC,Upgrade/Colo,MTN,L8,29-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+505,IHS_RIV_0968A,UC-227467,PHC,Upgrade/Colo,MTN,L18,29-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+506,IHS_RIV_0968A,UC-131588,PHC,Upgrade/Colo,MTN,L26,29-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,WAPABAS ENGINEERING AND CONSTRUCTION LIMITED
+507,IHS_OGN_1099A,CO-230519,Lagos,Upgrade/Colo,Airtel,2G,30-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,LAFRED ENGINEERING COMPANY LIMITED
+508,IHS_OGN_1099A,UC-230527,Lagos,Upgrade/Colo,Airtel,3G,30-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+509,IHS_OGN_1387A,CO-230521,Lagos,Upgrade/Colo,Airtel,2G,30-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,LAFRED ENGINEERING COMPANY LIMITED
+510,IHS_OGN_1387A,UC-230529,Lagos,Upgrade/Colo,Airtel,3G,30-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+511,IHS_IBA_0740E,CO-231255,Ibadan,Upgrade/Colo,Airtel,2G,31-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,EKM
+512,IHS_IBA_0740E,UC-231285,Ibadan,Upgrade/Colo,Airtel,3G,31-Dec-22,Q4'22,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+513,IHS_OYO_1126B,CO-231249,Ibadan,Upgrade/Colo,Airtel,2G,29-Dec-22,Q4'22,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+514,IHS_OYO_1126B,UC-231295,Ibadan,Upgrade/Colo,Airtel,3G,29-Dec-22,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+515,IHS_KWA_0780A,UC-232141,Ibadan,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EZZENTIAL GLOBAL SERVICES
+516,IHS_BAY_0725A,UC-232010,PHC,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,TLA Failed and Power Analysis Submitted,PMO - TLA,Infra Manager,Bedrock Multifunctions Limited
+517,IHS_EDO_1112C,UC-231509,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EKM
+518,IHS_EDO_0757A,UC-232171,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,EKM
+519,IHS_DEL_0951A,UC-232099,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,EKM
+520,IHS_EDO_1028A,UC-231502,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EKM
+521,IHS_EDO_1044C,UC-231477,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EKM
+522,IHS_DEL_0946A,UC-232155,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+523,IHS_WAR_0766C,UC-231459,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+524,IHS_DEL_0938A,UC-232125,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+525,IHS_DEL_1175A,UC-231441,Asaba,Upgrade/Colo,MTN,5G,29-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+526,IHS_ANA_0931A,UC-232230,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,EKM
+527,IHS_ANA_1441B,UC-231393,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EKM
+528,IHS_ANA_0924A,UC-232240,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+529,IHS_ANA_0960A,UC-232232,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+530,IHS_LAG_1661A,UC-231642,Lagos,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,CENTDOOR LIMITED
+531,IHS_LAG_1249A,UC-232048,Lagos,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+532,IHS_LAG_2840C,UC-231604,Lagos,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,LAFRED ENGINEERING COMPANY LIMITED
+533,IHS_LAG_1513A,UC-231606,Lagos,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,TELENOETICA LIMITED
+534,IHS_ANA_0798A,UC-232228,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,ANCHOR TELECOMS NIGERIA LIMITED
+535,IHS_ANA_1442B,UC-231403,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO- Power,SBC,ANCHOR TELECOMS NIGERIA LIMITED
+536,IHS_ANA_0846A,UC-232268,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,CONNIG TECHNOSERVE LIMITED
+537,IHS_OZO_0001C,UC-231452,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+538,IHS_ANA_1207A,UC-231391,Asaba,Upgrade/Colo,MTN,5G,30-Dec-22,Q4'22,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,SNOWVIEW SUPPORT SERVICE LIMITED
+539,IHS_DEL_0912A,UC-232104,Asaba,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+540,IHS_DEL_1076A,UC-231407,Asaba,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,CENTDOOR LIMITED
+541,IHS_WAR_0744C,UC-231464,Asaba,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,CENTDOOR LIMITED
+542,IHS_WAR_0886H,UC-231396,Asaba,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,Site Engineer Assigned,Civil Work Completed and Power Not Required,SBC,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+543,IHS_LAG_3795H,UC-231590,Lagos,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+544,IHS_LAG_0250B,UC-231753,Lagos,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+545,IHS_LAG_1123A,UC-231988,Lagos,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+546,IHS_OGN_0941A,UC-232113,Lagos,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+547,IHS_OGN_1250A,UC-231863,Lagos,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+548,IHS_OGN_1185A,UC-231854,Lagos,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+549,IHS_OGN_1098A,UC-231825,Lagos,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+550,IHS_OND_1098B,UC-231778,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+551,IHS_OND_0938A,UC-231819,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,BOLAMARK ENGINEERING LIMITED
+552,IHS_OYO_0786A,UC-231968,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+553,IHS_OND_0914A,UC-231788,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+554,IHS_OND_1102B,UC-231823,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+555,IHS_OYO_0926A,UC-232227,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+556,IHS_OYO_0830A,UC-232219,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+557,IHS_OSU_0112C,UC-231887,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EZZENTIAL GLOBAL SERVICES
+558,IHS_OYO_0841A,UC-232179,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EZZENTIAL GLOBAL SERVICES
+559,IHS_KWA_0879A,UC-231555,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EZZENTIAL GLOBAL SERVICES
+560,IHS_EKI_0039B,UC-231541,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EZZENTIAL GLOBAL SERVICES
+561,IHS_EKI_0757A,UC-232177,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EZZENTIAL GLOBAL SERVICES
+562,IHS_EKI_0880C,UC-231532,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EZZENTIAL GLOBAL SERVICES
+563,IHS_EKI_0796A,UC-232224,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+564,IHS_IBA_0723E,UC-231917,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,TSS Completed,Civil Work Completed and Power Pending,PMO - TLA,Regional Rollout Manager,Shenymann Projectplus Ltd
+565,IHS_OYO_1295B,UC-231916,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+566,IHS_OYO_1198H,UC-231942,Ibadan,Upgrade/Colo,MTN,5G,31-Dec-22,Q4'22,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,Shenymann Projectplus Ltd
+567,IHS_LAG_1371A,UC-216854,Lagos,Upgrade/Colo,Airtel,L26,03-Jan-23,Q1'23,TLA Failed and Power Analysis Submitted,TLA Failed and Power Analysis Submitted,Infra Manager (PMO),Infra Manager,BOLAMARK ENGINEERING LIMITED
+568,IHS_LAG_1257A,UC-221508,Lagos,Upgrade/Colo,MTN,Aviat_eband,03-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,NUVERAS TECHNOLOGIES LIMITED
+569,IHS_CRR_0727E,CO-227917,PHC,Upgrade/Colo,MTN,2G,03-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,TELENOETICA LIMITED
+570,IHS_CRR_0727E,UC-228216,PHC,Upgrade/Colo,MTN,3G,03-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+571,IHS_CRR_0727E,UC-228238,PHC,Upgrade/Colo,MTN,4G,03-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+572,IHS_LAG_1863A,UC-226857,Lagos,Upgrade/Colo,MTN,NFE_Growth,03-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+573,IHS_CRR_0937A,UC-226773,PHC,Upgrade/Colo,MTN,NFE_Growth,03-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+574,IHS_OND_0034B,UC-227524,Ibadan,Upgrade/Colo,MTN,L26,01-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+575,IHS_RIV_0942A,CO-231265,PHC,Upgrade/Colo,Airtel,2G,04-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,Bedrock Multifunctions Limited
+576,IHS_RIV_0942A,UC-231287,PHC,Upgrade/Colo,Airtel,3G,04-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+577,IHS_RIV_0703E,UC-229409,PHC,Upgrade/Colo,MTN,5G,04-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+578,IHS_PHC_0943H,UC-229405,PHC,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,SNOWVIEW SUPPORT SERVICE LIMITED
+579,IHS_EKI_0914B,UC-231514,Ibadan,Upgrade/Colo,MTN,5G,01-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,NUVERAS TECHNOLOGIES LIMITED
+580,IHS_IBA_0073B,UC-231947,Ibadan,Upgrade/Colo,MTN,5G,01-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,ANCHOR TELECOMS NIGERIA LIMITED
+581,IHS_OND_1049B,UC-231812,Ibadan,Upgrade/Colo,MTN,5G,01-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,BOLAMARK ENGINEERING LIMITED
+582,IHS_LAG_1867A,UC-231710,Lagos,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+583,IHS_RIV_1285A,UC-231982,PHC,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+584,IHS_OND_1024C,UC-231811,Ibadan,Upgrade/Colo,MTN,5G,01-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Pending,PMO - TLA,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+585,IHS_LAG_1965A,UC-231748,Lagos,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,TSS Completed,RFI Completed,PMO- Power,Rollout Project Manager,LAFRED ENGINEERING COMPANY LIMITED
+586,IHS_LAG_1495A,UC-231653,Lagos,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+587,IHS_RIV_1278A,UC-231971,PHC,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+588,IHS_PHC_0614C,UC-231972,PHC,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+589,IHS_RIV_1348A,UC-231951,PHC,Upgrade/Colo,MTN,5G,04-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+590,IHS_IBA_0114C,UC-231969,Ibadan,Upgrade/Colo,MTN,5G,01-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,ANCHOR TELECOMS NIGERIA LIMITED
+591,IHS_LAG_2632C,UC-231578,Lagos,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,Site Engineer Assigned,Civil Work Completed and Power Not Required,SBC,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+592,IHS_IBA_0099C,UC-231937,Ibadan,Upgrade/Colo,MTN,5G,01-Jan-23,Q1'23,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+593,IHS_EKI_0879C,UC-231523,Ibadan,Upgrade/Colo,MTN,5G,01-Jan-23,Q1'23,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+594,IHS_OGN_1292A,UC-231849,Lagos,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+595,IHS_EKI_0783A,UC-232188,Ibadan,Upgrade/Colo,MTN,5G,01-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,NUVERAS TECHNOLOGIES LIMITED
+596,IHS_LAG_1764A,UC-231707,Lagos,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,Site Engineer Assigned,TLA Report and Power Analysis Submitted,SBC,SBC,Bedrock Multifunctions Limited
+597,IHS_LAG_3018C,UC-231612,Lagos,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+598,IHS_RIV_1258A,UC-231952,PHC,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,CENTDOOR LIMITED
+599,IHS_LAG_1808A,UC-226812,Lagos,Upgrade/Colo,MTN,NFE_Growth,03-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+600,IHS_RIV_1214A,UC-231970,PHC,Upgrade/Colo,MTN,5G,04-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+601,IHS_LAG_2797C,UC-231755,Lagos,Upgrade/Colo,MTN,5G,03-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,TELENOETICA LIMITED
+602, IHS_KAN_1031A,UC-201651,Kano,Upgrade/Colo,Airtel,FE,05-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,BOLAMARK ENGINEERING LIMITED
+603,IHS_OGN_1371A,UC-212083,Lagos,Upgrade/Colo,MTN,L26,19-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,IHS
+604,IHS_OGN_0832E,UC-211765,Lagos,Upgrade/Colo,Airtel,MW,11-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IENGINEERING NIGERIA LIMITED
+605,IHS_ABJ_1252B,CO-234674,Abuja,Upgrade/Colo,Spectranet,LTE,19-Jan-23,Q1'23,Colocation Process Initiated,Colocation Process Initiated,HOR,Head Of Region,0
+606,IHS_OYO_0902A,UC-216689,Ibadan,Upgrade/Colo,Airtel,IPRAN,18-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by Rollout Project Manager,KAM,KAM,0
+607,IHS_LAG_0699C,UC-216918,Lagos,Upgrade/Colo,Airtel,L26,16-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+608,IHS_OYO_1031A,UC-217439,Ibadan,Upgrade/Colo,MTN,Huawei_Eband,18-Jan-23,Q1'23,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,IHS
+609,IHS_RIV_0898A,UC-217460,PHC,Upgrade/Colo,MTN,Huawei_Eband,13-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+610,IHS_LAG_0085V,UC-217462,Lagos,Upgrade/Colo,MTN,Huawei_Eband,18-Jan-23,Q1'23,Retrofit Decision and Power Analysis Submitted,Civil Work Completed and Power Not Required,Infra Manager (PMO),Regional Rollout Manager,LAFRED ENGINEERING COMPANY LIMITED
+611,IHS_LAG_1568A,UC-221513,Lagos,Upgrade/Colo,MTN,Aviat_eband,18-Jan-23,Q1'23,TLA Failed and Power Analysis Submitted,TLA Failed and Power Analysis Submitted,Infra Manager (PMO),Infra Manager,GLOVTEX TELECOMMUNICATION LIMITED
+612,IHS_LAG_1646A,UC-221499,Lagos,Upgrade/Colo,MTN,Aviat_eband,18-Jan-23,Q1'23,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,IENGINEERING NIGERIA LIMITED
+613,IHS_LAG_1627A,UC-218449,Lagos,Upgrade/Colo,MTN,Aviat_eband,18-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,Bedrock Multifunctions Limited
+614,IHS_LAG_3853H,UC-218420,Lagos,Upgrade/Colo,MTN,Aviat_eband,18-Jan-23,Q1'23,Retrofit Decision and Power Analysis Submitted,Retrofit Decision and Power Analysis Submitted,Infra Manager (PMO),SBC,SNOWVIEW SUPPORT SERVICE LIMITED
+615,IHS_LAG_0432B,UC-218440,Lagos,Upgrade/Colo,MTN,Aviat_eband,18-Jan-23,Q1'23,TLA Failed and Power Analysis Submitted,TLA Failed and Power Analysis Submitted,Infra Manager (PMO),Infra Manager,Shenymann Projectplus Ltd
+616,IHS_LAG_0690C,UC-218480,Lagos,Upgrade/Colo,MTN,Aviat_eband,18-Jan-23,Q1'23,RFI Completed,RFI Acknowledged by KAM,RPM,KAM,NUVERAS TECHNOLOGIES LIMITED
+617,IHS_ABJ_0284B,CO-227954,Abuja,Upgrade/Colo,MTN,2G,17-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+618,IHS_ABJ_0284B,UC-228245,Abuja,Upgrade/Colo,MTN,3G,17-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,IHS
+619,IHS_KAT_0766A,UC-227321,Kano,Upgrade/Colo,Airtel,MW,15-Jan-23,Q1'23,BOQ Approved,BOQ Approved,Power Uplift Manager,0,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+620,IHS_ABJ_0015B,UC-226970,Abuja,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,RFI Completed,RFI Acknowledged by KAM,RPM,KAM,0
+621,IHS_ABJ_0822A,UC-227001,Abuja,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,0
+622,IHS_LAG_1295A,UC-226893,Lagos,Upgrade/Colo,MTN,NFE_Growth,19-Jan-23,Q1'23,BOQ Approved and Power Upgrade Completed,RFI Completed,NQA,Rollout Project Manager,GLOVTEX TELECOMMUNICATION LIMITED
+623,IHS_LAG_1641A,UC-226813,Lagos,Upgrade/Colo,MTN,NFE_Growth,11-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+624,IHS_LAG_1684A,UC-226798,Lagos,Upgrade/Colo,MTN,NFE_Growth,16-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+625,IHS_ABJ_1673B,UC-219920,Abuja,Upgrade/Colo,MTN,NFE_Growth,17-Jan-23,Q1'23,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,0
+626,IHS_ABJ_1030A,UC-219839,Abuja,Upgrade/Colo,MTN,NFE_Growth,17-Jan-23,Q1'23,BOQ Approved and Power Upgrade Not Required,BOQ Approved and Power Upgrade Not Required,NQA,NQA,0
+627,IHS_ANA_1065A,UC-227499,Asaba,Upgrade/Colo,MTN,L26,08-Jan-23,Q1'23,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+628,IHS_KWA_0734A,UC-227536,Ibadan,Upgrade/Colo,MTN,L26,09-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+629,IHS_EDO_1007A,UC-227503,Asaba,Upgrade/Colo,MTN,L26,17-Jan-23,Q1'23,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+630,IHS_ANA_1133A,UC-227509,Asaba,Upgrade/Colo,MTN,L26,08-Jan-23,Q1'23,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+631,IHS_KWA_0701E,UC-227516,Ibadan,Upgrade/Colo,MTN,L26,06-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+632,IHS_EKI_0006B,UC-227486,Ibadan,Upgrade/Colo,MTN,L26,12-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,IHS
+633,IHS_WAR_0059C,UC-227482,Asaba,Upgrade/Colo,MTN,L26,15-Jan-23,Q1'23,TLA Report and Power Analysis Submitted,TLA Report and Power Analysis Submitted,SBC,SBC,IHS
+634,IHS_ANA_1212A,UC-227500,Asaba,Upgrade/Colo,MTN,L26,08-Jan-23,Q1'23,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+635,IHS_BEN_0028V,UC-227484,Asaba,Upgrade/Colo,MTN,L26,15-Jan-23,Q1'23,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+636,IHS_KWA_0889A,UC-227497,Ibadan,Upgrade/Colo,MTN,L26,18-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,IHS
+637,IHS_EDO_1237B,UC-227505,Asaba,Upgrade/Colo,MTN,L7,08-Jan-23,Q1'23,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+638,IHS_OYO_0889A,UC-227523,Ibadan,Upgrade/Colo,MTN,L7,06-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+639,IHS_BEN_0075C,UC-230781,Asaba,Upgrade/Colo,MTN,L7,15-Jan-23,Q1'23,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+640,IHS_OYO_0026B,UC-192965,Ibadan,Upgrade/Colo,MTN,L8,09-Jan-23,Q1'23,Equipment On Air,Equipment On Air,Closed,SBC,IHS
+641,IHS_OYO_0026B,UC-185211,Ibadan,Upgrade/Colo,MTN,L18,09-Jan-23,Q1'23,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,0
+642,IHS_OYO_0026B,UC-227453,Ibadan,Upgrade/Colo,MTN,L26,09-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+643,IHS_EDO_0870A,UC-193131,Asaba,Upgrade/Colo,MTN,L8,15-Jan-23,Q1'23,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,Regional Rollout Manager,EZZENTIAL GLOBAL SERVICES
+644,IHS_EDO_0870A,UC-173092,Asaba,Upgrade/Colo,MTN,L18,15-Jan-23,Q1'23,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,0
+645,IHS_EDO_0870A,UC-227469,Asaba,Upgrade/Colo,MTN,L26,15-Jan-23,Q1'23,Civil Work Completed and Power Not Required,Civil Work Completed and Power Not Required,RRM,Regional Rollout Manager,IHS
+646,IHS_RIV_0704E,UC-227434,PHC,Upgrade/Colo,MTN,L7,13-Jan-23,Q1'23,RFI Completed,RFI Acknowledged by KAM,RPM,KAM,IHS
+647,IHS_RIV_0704E,UC-211594,PHC,Upgrade/Colo,MTN,L8,13-Jan-23,Q1'23,RFI Completed,RFI Acknowledged by KAM,RPM,KAM,IHS
+648,IHS_RIV_0704E,UC-227454,PHC,Upgrade/Colo,MTN,L18,13-Jan-23,Q1'23,RFI Completed,RFI Acknowledged by KAM,RPM,KAM,IHS
+649,IHS_RIV_0704E,UC-130827,PHC,Upgrade/Colo,MTN,L26,13-Jan-23,Q1'23,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,TRUSSNET LIMITED
+650,IHS_ILO_0731E,CO-229030,Ibadan,Upgrade/Colo,MTN,2G,14-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,NUVERAS TECHNOLOGIES LIMITED
+651,IHS_ILO_0731E,UC-229060,Ibadan,Upgrade/Colo,MTN,3G,14-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,IHS
+652,IHS_ABI_0063B,CO-231257,Enugu,Upgrade/Colo,Airtel,2G,13-Jan-23,Q1'23,BOQ Approved and Power Upgrade Not Required,RFI Completed,NQA,Rollout Project Manager,EKM
+653,IHS_ABI_0063B,UC-231298,Enugu,Upgrade/Colo,Airtel,3G,13-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,IHS
+654,IHS_ENG_0055B,CO-231252,Enugu,Upgrade/Colo,Airtel,2G,10-Jan-23,Q1'23,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,EKM
+655,IHS_ENG_0055B,UC-231282,Enugu,Upgrade/Colo,Airtel,3G,10-Jan-23,Q1'23,FAC Completed and Equipment On Air,FAC Completed and Equipment On Air,Closed,0,IHS
+656,IHS_ENG_0062B,UC-229401,Enugu,Upgrade/Colo,MTN,5G,07-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+657,IHS_ABJ_1550H,UC-232427,Abuja,Upgrade/Colo,Airtel,MW,18-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+658,IHS_ABJ_1606H,UC-232421,Abuja,Upgrade/Colo,Airtel,MW,06-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+659,IHS_ABJ_1583H,UC-232422,Abuja,Upgrade/Colo,Airtel,MW,18-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+660,IHS_ABJ_0970A,UC-232416,Abuja,Upgrade/Colo,Airtel,MW,06-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+661,IHS_ABJ_1143A,UC-232411,Abuja,Upgrade/Colo,Airtel,MW,06-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+662,IHS_ABJ_1172B,UC-232412,Abuja,Upgrade/Colo,Airtel,MW,06-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,JARUS IMPERIAL NIGERIA LIMITED
+663,IHS_PLA_0777A,UC-232365,Abuja,Upgrade/Colo,Airtel,L2600,19-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+664,IHS_WAR_0731C,UC-232387,Asaba,Upgrade/Colo,Airtel,L2600,08-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+665,IHS_EDO_1186H,UC-232383,Asaba,Upgrade/Colo,Airtel,L2600,08-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,EZZENTIAL GLOBAL SERVICES
+666,IHS_LAG_3181B,CO-234697,Lagos,Upgrade/Colo,Airtel,2G,19-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,LAFRED ENGINEERING COMPANY LIMITED
+667,IHS_LAG_3181B,UC-234721,Lagos,Upgrade/Colo,Airtel,3G,19-Jan-23,Q1'23,Civil Work Completed and Power Not Required,RFI Acknowledged by Rollout Project Manager,RRM,KAM,IHS
+668,IHS_LAG_0692C,CO-234703,Lagos,Upgrade/Colo,Airtel,2G,10-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,CENTDOOR LIMITED
+669,IHS_LAG_0692C,UC-234716,Lagos,Upgrade/Colo,Airtel,3G,10-Jan-23,Q1'23,Civil Work Completed and Power Not Required,BOQ Approved and Power Upgrade Not Required,RRM,NQA,IHS
+670,IHS_LAG_1797A,UC-231719,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,TELENOETICA LIMITED
+671,IHS_SAG_0012B,UC-231901,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+672,IHS_LAG_1504A,UC-232276,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+673,IHS_AUC_0006B,UC-231491,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,SNOWVIEW SUPPORT SERVICE LIMITED
+674,IHS_OYO_1127B,UC-231919,Ibadan,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+675,IHS_OYO_0784A,UC-231995,Ibadan,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+676,IHS_OYO_1002A,UC-231935,Ibadan,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+677,IHS_OYO_0971A,UC-232205,Ibadan,Upgrade/Colo,MTN,5G,09-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+678,IHS_IBA_0072B,UC-231936,Ibadan,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Pending,PMO - TLA,Regional Rollout Manager,EKM
+679,IHS_OYO_0827A,UC-232148,Ibadan,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+680,IHS_EKI_0725A,UC-232128,Ibadan,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,Shenymann Projectplus Ltd
+681,IHS_OYO_1009A,UC-231910,Ibadan,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+682,IHS_LAG_1767A,UC-231699,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+683,IHS_LAG_1700A,UC-231693,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+684,IHS_EDO_0776A,UC-232161,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,CENTDOOR LIMITED
+685,IHS_EDO_0912A,UC-232174,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,CENTDOOR LIMITED
+686,IHS_EKI_0827A,UC-231540,Ibadan,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Pending,PMO - TLA,Regional Rollout Manager,Shenymann Projectplus Ltd
+687,IHS_IMO_1327B,UC-231553,Asaba,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Civil Work Completed and Power Not Required,RFI Completed,RRM,Rollout Project Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+688,IHS_ANA_0828A,UC-232198,Asaba,Upgrade/Colo,MTN,5G,08-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,CENTDOOR LIMITED
+689,IHS_DEL_1079A,UC-231426,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+690,IHS_IMO_1307B,UC-231563,Asaba,Upgrade/Colo,MTN,5G,16-Jan-23,Q1'23,Civil Work Completed and Power Not Required,RFI Completed,RRM,Rollout Project Manager,EKM
+691,IHS_ANA_1147A,UC-231392,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,HUNTERS FUNCTIONAL TELECOMS NIGERIA LIMITED
+692,IHS_OGN_1300A,UC-231892,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Site Engineer Assigned,TLA Report and Power Analysis Submitted,SBC,SBC,EZZENTIAL GLOBAL SERVICES
+693,IHS_SAG_0008B,UC-231838,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+694,IHS_OYO_1305B,UC-231926,Ibadan,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+695,IHS_DEL_0960A,UC-231465,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+696,IHS_DEL_0805A,UC-232101,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,HUNTERS FUNCTIONAL TELECOMS NIGERIA LIMITED
+697,IHS_EDO_0974A,UC-231470,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Site Engineer Assigned,Civil Work Completed and Power Not Required,SBC,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+698,IHS_EDO_0976A,UC-231500,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,SNOWVIEW SUPPORT SERVICE LIMITED
+699,IHS_AKA_0004B,UC-231501,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Site Engineer Assigned,Civil Work Completed and Power Not Required,SBC,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+700,IHS_EDO_1224B,UC-231498,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Upgrade Initiated,Contractor Approved,HOR,Regional Rollout Manager,0
+701,IHS_WAR_0945B,UC-231456,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+702,IHS_ANA_1097A,UC-231424,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,HUNTERS FUNCTIONAL TELECOMS NIGERIA LIMITED
+703,IHS_IMO_1000A,UC-231571,Asaba,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,Civil Work Completed and Power Not Required,RFI Completed,RRM,Rollout Project Manager,CENTDOOR LIMITED
+704,IHS_LAG_1663A,UC-231607,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,IENGINEERING NIGERIA LIMITED
+705,IHS_OND_0807A,UC-232187,Ibadan,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+706,IHS_EDO_0891A,UC-232186,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,EKM
+707,IHS_LAG_1944A,UC-231783,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,CENTDOOR LIMITED
+708,IHS_LAG_1132A,UC-232017,Lagos,Upgrade/Colo,MTN,5G,08-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,LAFRED ENGINEERING COMPANY LIMITED
+709,IHS_OGN_1255A,UC-231864,Lagos,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+710,IHS_LAG_3334C,UC-231661,Lagos,Upgrade/Colo,MTN,5G,16-Jan-23,Q1'23,Upgrade Initiated,TSS Completed,HOR,PMO - TLA,0
+711,IHS_OYO_1052A,UC-231943,Ibadan,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+712,IHS_OGU_0047C,UC-231893,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+713,IHS_OGN_1249A,UC-231845,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+714,IHS_LAG_1782A,UC-231676,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+715,IHS_ENG_0774A,UC-232014,Enugu,Upgrade/Colo,MTN,5G,11-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,CENTDOOR LIMITED
+716,IHS_KAN_0818A,UC-232243,Kano,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+717,IHS_LAG_1810A,UC-231703,Lagos,Upgrade/Colo,MTN,5G,11-Jan-23,Q1'23,TSS Completed,RFI Completed,PMO- Power,Rollout Project Manager,LAFRED ENGINEERING COMPANY LIMITED
+718,IHS_LAG_1765A,UC-231709,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,CENTDOOR LIMITED
+719,IHS_ABJ_0963A,UC-231561,Abuja,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+720,IHS_OGN_1152A,UC-231818,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,Bedrock Multifunctions Limited
+721,IHS_OGU_0057C,UC-231806,Lagos,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,Bedrock Multifunctions Limited
+722,IHS_LAG_2054A,UC-231685,Lagos,Upgrade/Colo,MTN,5G,14-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+723,IHS_OGN_1212A,UC-231855,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+724,IHS_ABJ_0886A,UC-232066,Abuja,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+725,IHS_LAG_1665A,UC-231651,Lagos,Upgrade/Colo,MTN,5G,14-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,ANCHOR TELECOMS NIGERIA LIMITED
+726,IHS_DEL_0935A,UC-232135,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,0,SNOWVIEW SUPPORT SERVICE LIMITED
+727,IHS_LAG_1483A,UC-232275,Lagos,Upgrade/Colo,MTN,5G,16-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+728,IHS_LAG_1088A,UC-232049,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+729,IHS_ABJ_1392C,UC-231570,Abuja,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,JARUS IMPERIAL NIGERIA LIMITED
+730,IHS_LAG_1338A,UC-232080,Lagos,Upgrade/Colo,MTN,5G,16-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,IENGINEERING NIGERIA LIMITED
+731,IHS_OGN_1115A,UC-231824,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+732,IHS_BOR_0761A,UC-232253,Kano,Upgrade/Colo,MTN,5G,15-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+733,IHS_OGN_1099A,UC-231815,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,LAFRED ENGINEERING COMPANY LIMITED
+734,IHS_LAG_1258A,UC-232041,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,TSS Completed,RFI Acknowledged by KAM,PMO - TLA,KAM,LAFRED ENGINEERING COMPANY LIMITED
+735,IHS_RIV_0948A,UC-232087,PHC,Upgrade/Colo,MTN,5G,15-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+736,IHS_OGN_1183A,UC-231832,Lagos,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+737,IHS_LAG_1729A,UC-231672,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+738,IHS_LAG_1262A,UC-232044,Lagos,Upgrade/Colo,MTN,5G,16-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+739,IHS_OGN_1230A,UC-231847,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+740,IHS_OGN_1089A,UC-231813,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EKM
+741,IHS_ABJ_1125A,UC-231579,Abuja,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+742,IHS_LAG_1107A,UC-231973,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+743,IHS_LAG_1289A,UC-231996,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,LAFRED ENGINEERING COMPANY LIMITED
+744,IHS_LAG_1706A,UC-231608,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+745,IHS_LAG_1446A,UC-232264,Lagos,Upgrade/Colo,MTN,5G,16-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+746,IHS_LAG_1893A,UC-231772,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,EZZENTIAL GLOBAL SERVICES
+747,IHS_LAG_2997C,UC-231594,Lagos,Upgrade/Colo,MTN,5G,11-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+748,IHS_ABJ_0939A,UC-232234,Abuja,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+749,IHS_RIV_1338A,UC-231961,PHC,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,ANCHOR TELECOMS NIGERIA LIMITED
+750,IHS_OGN_1301A,UC-231903,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+751,IHS_LAG_1848A,UC-231770,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,CENTDOOR LIMITED
+752,IHS_OYO_0901A,UC-232221,Ibadan,Upgrade/Colo,MTN,5G,14-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+753,IHS_LAG_1917A,UC-231761,Lagos,Upgrade/Colo,MTN,5G,08-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,ANCHOR TELECOMS NIGERIA LIMITED
+754,IHS_LAG_3110C,UC-231592,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+755,IHS_BAY_0775A,UC-232088,PHC,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+756,IHS_OGN_1157A,UC-231827,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+757,IHS_OGN_1367A,UC-231880,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+758,IHS_OSU_0950A,UC-231884,Ibadan,Upgrade/Colo,MTN,5G,14-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+759,IHS_EDO_0975A,UC-231490,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,ANCHOR TELECOMS NIGERIA LIMITED
+760,IHS_WAR_0963C,UC-231447,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+761,IHS_EDO_0880A,UC-232185,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+762,IHS_EDO_0792A,UC-232183,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+763,IHS_BAY_0781A,UC-232134,PHC,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,BOQ Approved and Power Upgrade Not Required,PMO - TLA,NQA,SNOWVIEW SUPPORT SERVICE LIMITED
+764,IHS_BAY_0763A,UC-232068,PHC,Upgrade/Colo,MTN,5G,16-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+765,IHS_DEL_1132A,UC-231430,Asaba,Upgrade/Colo,MTN,5G,08-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,CENTDOOR LIMITED
+766,IHS_KAD_0999A,UC-231573,Abuja,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+767,IHS_OYO_0831A,UC-232168,Ibadan,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,BOQ Approved and Power Upgrade Not Required,RFI Completed,NQA,Rollout Project Manager,Bedrock Multifunctions Limited
+768,IHS_DEL_0881A,UC-232154,Asaba,Upgrade/Colo,MTN,5G,08-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,EKM
+769,IHS_DEL_0821A,UC-232121,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,CENTDOOR LIMITED
+770,IHS_DEL_0804A,UC-232150,Asaba,Upgrade/Colo,MTN,5G,15-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,FARALIM GLOBAL SERVICES NIGERIA LIMITED
+771,IHS_DEL_0785A,UC-232100,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,CENTDOOR LIMITED
+772,IHS_DEL_1070A,UC-231398,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+773,IHS_ENG_0912A,UC-232262,Enugu,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Civil Work Completed and Power Not Required,SBC Reassigned,RRM,0,EZZENTIAL GLOBAL SERVICES
+774,IHS_ENU_0145C,UC-231535,Enugu,Upgrade/Colo,MTN,5G,15-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,CONNIG TECHNOSERVE LIMITED
+775,IHS_ENG_1062A,UC-231545,Enugu,Upgrade/Colo,MTN,5G,11-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+776,IHS_ENG_1060A,UC-231515,Enugu,Upgrade/Colo,MTN,5G,14-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,Bedrock Multifunctions Limited
+777,IHS_ABJ_1602H,UC-231518,Abuja,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+778,IHS_ABJ_1601H,UC-232086,Abuja,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,JARUS IMPERIAL NIGERIA LIMITED
+779,IHS_LAG_3947H,UC-231722,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO- Power,SBC,ANCHOR TELECOMS NIGERIA LIMITED
+780,IHS_OGU_0190H,UC-231900,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+781,IHS_ANA_1393H,UC-231390,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,0,SNOWVIEW SUPPORT SERVICE LIMITED
+782,IHS_LAG_2974C,UC-231597,Lagos,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,TELENOETICA LIMITED
+783,IHS_LAG_2060A,UC-231745,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO- Power,SBC,IENGINEERING NIGERIA LIMITED
+784,IHS_LAG_2841C,UC-231614,Lagos,Upgrade/Colo,MTN,5G,14-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,NUVERAS TECHNOLOGIES LIMITED
+785,IHS_OYO_1071A,UC-231931,Ibadan,Upgrade/Colo,MTN,5G,06-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Pending,PMO - TLA,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+786,IHS_BEN_0077C,UC-231474,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+787,IHS_WAR_0070C,UC-231463,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO- Power,SBC,EZZENTIAL GLOBAL SERVICES
+788,IHS_OND_1014C,UC-231822,Ibadan,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+789,IHS_ABJ_1022A,UC-231548,Abuja,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+790,IHS_ABJ_1020A,UC-231537,Abuja,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+791,IHS_LAG_1373A,UC-232072,Lagos,Upgrade/Colo,MTN,5G,11-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+792,IHS_LAG_1817A,UC-231679,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,NUVERAS TECHNOLOGIES LIMITED
+793,IHS_LAG_1496A,UC-232277,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+794,IHS_LAG_1804A,UC-231674,Lagos,Upgrade/Colo,MTN,5G,11-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+795,IHS_LAG_1444A,UC-232259,Lagos,Upgrade/Colo,MTN,5G,14-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,LAFRED ENGINEERING COMPANY LIMITED
+796,IHS_LAG_1117A,UC-232016,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,Upgrade Initiated,Site Engineer Assigned,HOR,SBC,0
+797,IHS_LAG_1982A,UC-231762,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,TSS Completed,RFI Completed,PMO- Power,Rollout Project Manager,LAFRED ENGINEERING COMPANY LIMITED
+798,IHS_LAG_0054B,UC-231739,Lagos,Upgrade/Colo,MTN,5G,11-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+799,IHS_LAG_1567A,UC-232267,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+800,IHS_LAG_1415A,UC-232237,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Pending,PMO - TLA,Regional Rollout Manager,BOLAMARK ENGINEERING LIMITED
+801,IHS_LAG_1693A,UC-231645,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,GLOVTEX TELECOMMUNICATION LIMITED
+802,IHS_LAG_1879A,UC-231726,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,NUVERAS TECHNOLOGIES LIMITED
+803,IHS_OGU_0306B,UC-231808,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,TSS Completed,RFI Completed,PMO- Power,Rollout Project Manager,LAFRED ENGINEERING COMPANY LIMITED
+804,IHS_OYO_0814A,UC-232178,Ibadan,Upgrade/Colo,MTN,5G,14-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,GLOVTEX TELECOMMUNICATION LIMITED
+805,IHS_ANA_1445B,UC-231423,Asaba,Upgrade/Colo,MTN,5G,08-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,TELENOETICA LIMITED
+806,IHS_OGU_0343B,UC-231883,Lagos,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+807,IHS_DEL_0854A,UC-232153,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+808,IHS_OYO_1008A,UC-231920,Ibadan,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,RFI Acknowledged by Rollout Project Manager,RFI Acknowledged by KAM,KAM,KAM,EKM
+809,IHS_EDO_1109B,UC-231529,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,CENTDOOR LIMITED
+810,IHS_DEL_0769A,UC-232149,Asaba,Upgrade/Colo,MTN,5G,15-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,EZZENTIAL GLOBAL SERVICES
+811,IHS_AUC_0010B,UC-231503,Asaba,Upgrade/Colo,MTN,5G,08-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,EZZENTIAL GLOBAL SERVICES
+812,IHS_EDO_1193H,UC-231499,Asaba,Upgrade/Colo,MTN,5G,12-Jan-23,Q1'23,Site Engineer Assigned,TSS Completed,SBC,PMO - TLA,SNOWVIEW SUPPORT SERVICE LIMITED
+813,IHS_LAG_1231A,UC-232075,Lagos,Upgrade/Colo,MTN,5G,11-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+814,IHS_LAG_1774A,UC-231633,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO- Power,SBC,EZZENTIAL GLOBAL SERVICES
+815,IHS_OGN_0901A,UC-232001,Lagos,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,Site Engineer Assigned,Site Engineer Assigned,SBC,SBC,Bedrock Multifunctions Limited
+816,IHS_OGN_1122A,UC-231829,Lagos,Upgrade/Colo,MTN,5G,19-Jan-23,Q1'23,TSS Completed,RFI Completed,PMO- Power,Rollout Project Manager,LAFRED ENGINEERING COMPANY LIMITED
+817,IHS_RIV_1004A,UC-232097,PHC,Upgrade/Colo,MTN,5G,16-Jan-23,Q1'23,TSS Completed,TLA Report and Power Analysis Submitted,PMO - TLA,SBC,Bedrock Multifunctions Limited
+818,IHS_ABJ_1160A,UC-231580,Abuja,Upgrade/Colo,MTN,5G,10-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+819,IHS_ABJ_1138A,UC-231538,Abuja,Upgrade/Colo,MTN,5G,18-Jan-23,Q1'23,Upgrade Initiated,Upgrade Initiated,HOR,Head Of Region,0
+820,IHS_RIV_1260A,UC-231962,PHC,Upgrade/Colo,MTN,5G,13-Jan-23,Q1'23,TSS Completed,TLA Failed and Power Analysis Submitted,PMO - TLA,Infra Manager,CENTDOOR LIMITED
+821,IHS_LAG_1925A,CO-228416,Lagos,Upgrade/Colo,9Mobile,2G,10-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,EKM
+822,IHS_LAG_1925A,UC-228417,Lagos,Upgrade/Colo,9Mobile,3G,10-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+823,IHS_LAG_1183A,CO-228418,Lagos,Upgrade/Colo,9Mobile,2G,10-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,BOLAMARK ENGINEERING LIMITED
+824,IHS_LAG_1183A,UC-228419,Lagos,Upgrade/Colo,9Mobile,3G,10-Jan-23,Q1'23,RFI Acknowledged by KAM,RFI Acknowledged by KAM,Closed,KAM,0
+825,IHS_KAN_0937A,CO-235207,Kano,Upgrade/Colo,Smile,LTE,13-Jan-23,Q1'23,Colocation Process Initiated,Colocation Process Initiated,HOR,Head Of Region,0
+826,IHS_KAN_0077B,CO-235211,Kano,Upgrade/Colo,Smile,LTE,13-Jan-23,Q1'23,Colocation Process Initiated,Colocation Process Initiated,HOR,Head Of Region,0
+827,IHS_KAN_0728E,CO-235208,Kano,Upgrade/Colo,Smile,LTE,13-Jan-23,Q1'23,Colocation Process Initiated,Colocation Process Initiated,HOR,Head Of Region,0
+828,IHS_KAN_0914A,CO-235204,Kano,Upgrade/Colo,Smile,LTE,13-Jan-23,Q1'23,Colocation Process Initiated,Colocation Process Initiated,HOR,Head Of Region,0
+829,IHS_LAG_3112B,CO-227332,Lagos,Upgrade/Colo,Cobranet,LTE,13-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,Bedrock Multifunctions Limited
+830,IHS_KAN_0121B,CO-235213,Kano,Upgrade/Colo,Smile,LTE,16-Jan-23,Q1'23,Colocation Process Initiated,Colocation Process Initiated,HOR,Head Of Region,0
+831,IHS_EDO_0982A,UC-231469,Asaba,Upgrade/Colo,MTN,5G,17-Jan-23,Q1'23,TSS Completed,Civil Work Completed and Power Not Required,PMO - TLA,Regional Rollout Manager,SNOWVIEW SUPPORT SERVICE LIMITED
+832,IHS_LAG_3043C,CO-231318,Lagos,Upgrade/Colo,Cyberspace,LTE,18-Jan-23,Q1'23,TSS Completed,TSS Completed,PMO - TLA,PMO - TLA,BOLAMARK ENGINEERING LIMITED
+833,IHS_BNU_1181B,UC-213294,Enugu,Upgrade/Colo,Airtel,3G,20/12/2022,Q4'22,Equipment On Air,Equipment On Air,Closed,SBC,
+834,IHS_LAG_0200V,UC-193594,Lagos,Upgrade/Colo,Airtel,LTE,18/08/2022,Q4'22,Civil Work Completed and Power Not Required,BOQ Approved and Power Upgrade Not Required,RRM,NQA,
