@@ -21,7 +21,7 @@ class DataManager:
         for city in self.destination_data:
             new_data = {
                 "price": {
-                    "iataCode": 
+                    "iataCode": city["iataCode"]
                 }
             }
             # Update google sheety file
