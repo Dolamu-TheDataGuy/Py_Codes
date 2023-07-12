@@ -1,0 +1,139 @@
+{
+    "search_id": "2ef2757f-5a89-9ba6-830b-470e118499a4",
+    "currency": "USD",
+    "fx_rate": 1.102678,
+    "data": [
+        {
+            "id": "1cb2003c4c9f0000f803785c_0|003c1cb24cba0000c4a59743_0",
+            "flyFrom": "BVA",
+            "flyTo": "BEG",
+            "cityFrom": "Paris",
+            "cityCodeFrom": "PAR",
+            "cityTo": "Belgrade",
+            "cityCodeTo": "BEG",
+            "countryFrom": {
+                "code": "FR",
+                "name": "France"
+            },
+            "countryTo": {
+                "code": "RS",
+                "name": "Serbia"
+            },
+            "nightsInDest": 27,
+            "quality": 105.476243,
+            "distance": 1466.87,
+            "duration": {
+                "departure": 8700,
+                "return": 9600,
+                "total": 18300
+            },
+            "price": 45,
+            "conversion": {
+                "EUR": 40.809738,
+                "USD": 45
+            },
+            "fare": {
+                "adults": 45,
+                "children": 45,
+                "infants": 45
+            },
+            "bags_price": {
+                "1": 164.241,
+                "2": 328.449
+            },
+            "baglimit": {
+                "hand_height": 40,
+                "hand_length": 55,
+                "hand_weight": 10,
+                "hand_width": 23,
+                "hold_dimensions_sum": 439,
+                "hold_height": 149,
+                "hold_length": 171,
+                "hold_weight": 20,
+                "hold_width": 119,
+                "personal_item_height": 30,
+                "personal_item_length": 40,
+                "personal_item_weight": 10,
+                "personal_item_width": 20
+            },
+            "availability": {
+                "seats": null
+            },
+            "airlines": [
+                "W6"
+            ],
+            "route": [
+                {
+                    "id": "1cb2003c4c9f0000f803785c_0",
+                    "combination_id": "1cb2003c4c9f0000f803785c",
+                    "flyFrom": "BVA",
+                    "flyTo": "BEG",
+                    "cityFrom": "Paris",
+                    "cityCodeFrom": "PAR",
+                    "cityTo": "Belgrade",
+                    "cityCodeTo": "BEG",
+                    "airline": "W6",
+                    "flight_no": 4046,
+                    "operating_carrier": "",
+                    "operating_flight_no": "",
+                    "fare_basis": "SREG",
+                    "fare_category": "M",
+                    "fare_classes": "S",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": false,
+                    "vi_connection": false,
+                    "guarantee": false,
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2023-09-15T18:50:00.000Z",
+                    "utc_arrival": "2023-09-15T16:50:00.000Z",
+                    "local_departure": "2023-09-15T16:25:00.000Z",
+                    "utc_departure": "2023-09-15T14:25:00.000Z"
+                },
+                {
+                    "id": "003c1cb24cba0000c4a59743_0",
+                    "combination_id": "003c1cb24cba0000c4a59743",
+                    "flyFrom": "BEG",
+                    "flyTo": "BVA",
+                    "cityFrom": "Belgrade",
+                    "cityCodeFrom": "BEG",
+                    "cityTo": "Paris",
+                    "cityCodeTo": "PAR",
+                    "airline": "W6",
+                    "flight_no": 4045,
+                    "operating_carrier": "",
+                    "operating_flight_no": "",
+                    "fare_basis": "SREG",
+                    "fare_category": "M",
+                    "fare_classes": "S",
+                    "fare_family": "",
+                    "return": 1,
+                    "bags_recheck_required": false,
+                    "vi_connection": false,
+                    "guarantee": false,
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2023-10-12T09:10:00.000Z",
+                    "utc_arrival": "2023-10-12T07:10:00.000Z",
+                    "local_departure": "2023-10-12T06:30:00.000Z",
+                    "utc_departure": "2023-10-12T04:30:00.000Z"
+                }
+            ],
+            "booking_token": "Gj3Ae6hfgp6PdxYmV229Lhcpi5txCJ65sewgGtG1pr-CqJlUJMFlp4LUxOdyLN5YxlaYuMv-zp26Mkt6hq4R1k7HDBLNxOE9NoZlZ8I5LSFGE2MpNSMIcZtH5_-hfKp8PrxwR9ohrJGooI80ZE-GVnEt8JbJWLHwj9tpdSxPOrHKepMS_6jpw9aig5dTHEGhHlGMENkHkqlQ8A5S1N5MGujYKCKCNJbuIxgJYs7meA7ktilABJKhyjfnq3uRd_5DU_F3x4IJHCmbGaMiZZSpSB3zq1RvJl3QcSDDaMZgvDUyHxOVPg7RvcwCeFxekyDkIdoUsjTS0W22QLkONhaXrwJPY7nzKzxkE2y4sVNQZCkbphD0IQTpWxYOxYgW0zBvvVBgGYVnCpv0_cab8zD7Hi_Nk2PyDylKAVun3jDcCDjOXN3qKb587QjHybRtf7sDk1G8L7sQUyJP4d9Tm-XXpKrULHZpk52dn6eZR5XYkzXXLUt-5ZbfhbOi6zF6l0hnevsdrSWTxOTuwiO7vWRmKYQ==",
+            "deep_link": "https://www.kiwi.com/deep?affilid=dolamuflightsearch&currency=USD&flightsId=1cb2003c4c9f0000f803785c_0%7C003c1cb24cba0000c4a59743_0&from=BVA&lang=en&passengers=1&to=BEG&booking_token=Gj3Ae6hfgp6PdxYmV229Lhcpi5txCJ65sewgGtG1pr-CqJlUJMFlp4LUxOdyLN5YxlaYuMv-zp26Mkt6hq4R1k7HDBLNxOE9NoZlZ8I5LSFGE2MpNSMIcZtH5_-hfKp8PrxwR9ohrJGooI80ZE-GVnEt8JbJWLHwj9tpdSxPOrHKepMS_6jpw9aig5dTHEGhHlGMENkHkqlQ8A5S1N5MGujYKCKCNJbuIxgJYs7meA7ktilABJKhyjfnq3uRd_5DU_F3x4IJHCmbGaMiZZSpSB3zq1RvJl3QcSDDaMZgvDUyHxOVPg7RvcwCeFxekyDkIdoUsjTS0W22QLkONhaXrwJPY7nzKzxkE2y4sVNQZCkbphD0IQTpWxYOxYgW0zBvvVBgGYVnCpv0_cab8zD7Hi_Nk2PyDylKAVun3jDcCDjOXN3qKb587QjHybRtf7sDk1G8L7sQUyJP4d9Tm-XXpKrULHZpk52dn6eZR5XYkzXXLUt-5ZbfhbOi6zF6l0hnevsdrSWTxOTuwiO7vWRmKYQ==",
+            "facilitated_booking_available": false,
+            "pnr_count": 2,
+            "has_airport_change": false,
+            "technical_stops": 0,
+            "throw_away_ticketing": false,
+            "hidden_city_ticketing": false,
+            "virtual_interlining": false,
+            "local_arrival": "2023-09-15T18:50:00.000Z",
+            "utc_arrival": "2023-09-15T16:50:00.000Z",
+            "local_departure": "2023-09-15T16:25:00.000Z",
+            "utc_departure": "2023-09-15T14:25:00.000Z"
+        }
+    ],
+    "_results": 1
+}
