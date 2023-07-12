@@ -1,5 +1,6 @@
 import requests
 import pprint
+from flight_search import FlightSearch
 
 SHEETY_URL = "https://api.sheety.co/b3e23f917dcbc032b319d52cb90c0b39/flightDealProject/prices"
 
@@ -18,10 +19,11 @@ class DataManager:
 
 
     def update_destination_codes(self):
+        flight_code = FlightSearch()
         for city in self.destination_data:
             new_data = {
                 "price": {
-                    "iataCode": city["iataCode"]
+                    "iataCode": flight_code.get_destination_code(city['city'])
                 }
             }
             # Update google sheety file
