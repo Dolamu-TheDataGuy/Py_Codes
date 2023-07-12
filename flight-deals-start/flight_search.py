@@ -2,6 +2,7 @@ import requests
 import cred
 import json
 from datetime import datetime, timedelta
+from flight_data import FlightData
 
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
 TEQUILA_API_KEY = cred.TEQUILA_API_KEY
@@ -44,7 +45,26 @@ class FlightSearch:
         with open("data.json", "w") as f:
             json.dump(results, f, indent=4)
 
-        data = results["data"][0]
+        try:
+            data = results["data"][0]
+        except IndexError:
+            print(f"No flights found for {destination_city_code}")
+            return None
+        
+
+        flight_data = FlightData(
+            price=data["price"],
+            origin_city=data["route"][0]["cityFrom"],
+            origin_airport=data["route"][0]["flyFrom"],
+            destination_city=data["route"][0]["cityTo"],
+            destination_airport=data["route"][0]["flyTo"],
+            flight_time=data["route"][0]["local_departure"].split("T")[0],
+            return_time=data["route"][1]["local_departure"].split("T")[0]
+
+        )
+        print(f"{flight_data.destination_city}:${flight_data.price}")
+        return flight_data
+        
 
 
-samp =  FlightSearch().research_flight("PAR","BEG", datetime.now()+timedelta(hours=24), datetime.now()+timedelta(days=180))
+# samp =  FlightSearch().research_flight("PAR","BEG", datetime.now()+timedelta(hours=24), datetime.now()+timedelta(days=180))

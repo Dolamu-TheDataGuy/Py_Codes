@@ -1,10 +1,10 @@
 {
-    "search_id": "2ef2757f-5a89-9ba6-830b-470e118499a4",
+    "search_id": "84654a30-b4ba-f9e5-897b-2d2286f28ca9",
     "currency": "USD",
     "fx_rate": 1.102678,
     "data": [
         {
-            "id": "1cb2003c4c9f0000f803785c_0|003c1cb24cba0000c4a59743_0",
+            "id": "1cb2003c4cab0000e444def0_0|003c1cb24cba0000c4a59743_0",
             "flyFrom": "BVA",
             "flyTo": "BEG",
             "cityFrom": "Paris",
@@ -19,7 +19,7 @@
                 "code": "RS",
                 "name": "Serbia"
             },
-            "nightsInDest": 27,
+            "nightsInDest": 15,
             "quality": 105.476243,
             "distance": 1466.87,
             "duration": {
@@ -38,8 +38,8 @@
                 "infants": 45
             },
             "bags_price": {
-                "1": 164.241,
-                "2": 328.449
+                "1": 123.09,
+                "2": 246.1635
             },
             "baglimit": {
                 "hand_height": 40,
@@ -57,15 +57,15 @@
                 "personal_item_width": 20
             },
             "availability": {
-                "seats": null
+                "seats": 6
             },
             "airlines": [
                 "W6"
             ],
             "route": [
                 {
-                    "id": "1cb2003c4c9f0000f803785c_0",
-                    "combination_id": "1cb2003c4c9f0000f803785c",
+                    "id": "1cb2003c4cab0000e444def0_0",
+                    "combination_id": "1cb2003c4cab0000e444def0",
                     "flyFrom": "BVA",
                     "flyTo": "BEG",
                     "cityFrom": "Paris",
@@ -86,10 +86,10 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-09-15T18:50:00.000Z",
-                    "utc_arrival": "2023-09-15T16:50:00.000Z",
-                    "local_departure": "2023-09-15T16:25:00.000Z",
-                    "utc_departure": "2023-09-15T14:25:00.000Z"
+                    "local_arrival": "2023-09-27T12:20:00.000Z",
+                    "utc_arrival": "2023-09-27T10:20:00.000Z",
+                    "local_departure": "2023-09-27T09:55:00.000Z",
+                    "utc_departure": "2023-09-27T07:55:00.000Z"
                 },
                 {
                     "id": "003c1cb24cba0000c4a59743_0",
@@ -120,8 +120,8 @@
                     "utc_departure": "2023-10-12T04:30:00.000Z"
                 }
             ],
-            "booking_token": "Gj3Ae6hfgp6PdxYmV229Lhcpi5txCJ65sewgGtG1pr-CqJlUJMFlp4LUxOdyLN5YxlaYuMv-zp26Mkt6hq4R1k7HDBLNxOE9NoZlZ8I5LSFGE2MpNSMIcZtH5_-hfKp8PrxwR9ohrJGooI80ZE-GVnEt8JbJWLHwj9tpdSxPOrHKepMS_6jpw9aig5dTHEGhHlGMENkHkqlQ8A5S1N5MGujYKCKCNJbuIxgJYs7meA7ktilABJKhyjfnq3uRd_5DU_F3x4IJHCmbGaMiZZSpSB3zq1RvJl3QcSDDaMZgvDUyHxOVPg7RvcwCeFxekyDkIdoUsjTS0W22QLkONhaXrwJPY7nzKzxkE2y4sVNQZCkbphD0IQTpWxYOxYgW0zBvvVBgGYVnCpv0_cab8zD7Hi_Nk2PyDylKAVun3jDcCDjOXN3qKb587QjHybRtf7sDk1G8L7sQUyJP4d9Tm-XXpKrULHZpk52dn6eZR5XYkzXXLUt-5ZbfhbOi6zF6l0hnevsdrSWTxOTuwiO7vWRmKYQ==",
-            "deep_link": "https://www.kiwi.com/deep?affilid=dolamuflightsearch&currency=USD&flightsId=1cb2003c4c9f0000f803785c_0%7C003c1cb24cba0000c4a59743_0&from=BVA&lang=en&passengers=1&to=BEG&booking_token=Gj3Ae6hfgp6PdxYmV229Lhcpi5txCJ65sewgGtG1pr-CqJlUJMFlp4LUxOdyLN5YxlaYuMv-zp26Mkt6hq4R1k7HDBLNxOE9NoZlZ8I5LSFGE2MpNSMIcZtH5_-hfKp8PrxwR9ohrJGooI80ZE-GVnEt8JbJWLHwj9tpdSxPOrHKepMS_6jpw9aig5dTHEGhHlGMENkHkqlQ8A5S1N5MGujYKCKCNJbuIxgJYs7meA7ktilABJKhyjfnq3uRd_5DU_F3x4IJHCmbGaMiZZSpSB3zq1RvJl3QcSDDaMZgvDUyHxOVPg7RvcwCeFxekyDkIdoUsjTS0W22QLkONhaXrwJPY7nzKzxkE2y4sVNQZCkbphD0IQTpWxYOxYgW0zBvvVBgGYVnCpv0_cab8zD7Hi_Nk2PyDylKAVun3jDcCDjOXN3qKb587QjHybRtf7sDk1G8L7sQUyJP4d9Tm-XXpKrULHZpk52dn6eZR5XYkzXXLUt-5ZbfhbOi6zF6l0hnevsdrSWTxOTuwiO7vWRmKYQ==",
+            "booking_token": "GSvdDvvwFeqXKUj4c5ITf5Wx286kxvWUCgyGfIo_Wzy6r_Wl9_W1u6HvON1DyaE_AaD_jXt4B9aBwUxp5p3G6H8-C-CsI_dL_ffcFUsImYHnmDHDTHYqW5jj_NEpg7XTWIxRrFOx36OGCTtpYArQIdeKxqYqEH9oiZygMOz9Z0VgJ77LPxw_YOIHBd-p-Cal9RdZWKaE3_w_55uXoa79zp81hAjoBSEG2xhOQiYountziKh6qLXOjuRPpYAKiCN7CkMh8SkYYfNW8RjUhM_OE4yDAb68YLkQj2_P0iixFao_1HCy7ax9CnSoXhwIz3djCASf_kIMjGMTM5PPdJFhi_0jdRJV81mSB6XWLjHPl__l5p0J8Xr9enkSD-dxBlfkw46Rxqe3gloKmqwj9Uhh3UTiGKrko6qwp-unnKlZsEstyTcI7mHs906q4zB6tvs9IX0UBuGUvbjATl59YhBkQtdTPJr3GITS0Z0f-AeoXFS7ndHVqKkfB7gYzbe2V0lOBwVBy8VDtgrWaG5PYePJPvQ==",
+            "deep_link": "https://www.kiwi.com/deep?affilid=dolamuflightsearch&currency=USD&flightsId=1cb2003c4cab0000e444def0_0%7C003c1cb24cba0000c4a59743_0&from=BVA&lang=en&passengers=1&to=BEG&booking_token=GSvdDvvwFeqXKUj4c5ITf5Wx286kxvWUCgyGfIo_Wzy6r_Wl9_W1u6HvON1DyaE_AaD_jXt4B9aBwUxp5p3G6H8-C-CsI_dL_ffcFUsImYHnmDHDTHYqW5jj_NEpg7XTWIxRrFOx36OGCTtpYArQIdeKxqYqEH9oiZygMOz9Z0VgJ77LPxw_YOIHBd-p-Cal9RdZWKaE3_w_55uXoa79zp81hAjoBSEG2xhOQiYountziKh6qLXOjuRPpYAKiCN7CkMh8SkYYfNW8RjUhM_OE4yDAb68YLkQj2_P0iixFao_1HCy7ax9CnSoXhwIz3djCASf_kIMjGMTM5PPdJFhi_0jdRJV81mSB6XWLjHPl__l5p0J8Xr9enkSD-dxBlfkw46Rxqe3gloKmqwj9Uhh3UTiGKrko6qwp-unnKlZsEstyTcI7mHs906q4zB6tvs9IX0UBuGUvbjATl59YhBkQtdTPJr3GITS0Z0f-AeoXFS7ndHVqKkfB7gYzbe2V0lOBwVBy8VDtgrWaG5PYePJPvQ==",
             "facilitated_booking_available": false,
             "pnr_count": 2,
             "has_airport_change": false,
@@ -129,10 +129,10 @@
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-09-15T18:50:00.000Z",
-            "utc_arrival": "2023-09-15T16:50:00.000Z",
-            "local_departure": "2023-09-15T16:25:00.000Z",
-            "utc_departure": "2023-09-15T14:25:00.000Z"
+            "local_arrival": "2023-09-27T12:20:00.000Z",
+            "utc_arrival": "2023-09-27T10:20:00.000Z",
+            "local_departure": "2023-09-27T09:55:00.000Z",
+            "utc_departure": "2023-09-27T07:55:00.000Z"
         }
     ],
     "_results": 1
