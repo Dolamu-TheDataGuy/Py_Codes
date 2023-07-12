@@ -5,7 +5,7 @@ TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
 TEQUILA_API_KEY = cred.TEQUILA_API_KEY
 
 class FlightSearch:
-    
+
     def get_destination_code(self, city_name):
         # get destination code from Tequilla search API
         location_endpoint = TEQUILA_ENDPOINT+"/locations/query"
@@ -15,4 +15,6 @@ class FlightSearch:
         result = response.json()['locations']
         code = result[0]['code']
         return code
+    
+    
 
