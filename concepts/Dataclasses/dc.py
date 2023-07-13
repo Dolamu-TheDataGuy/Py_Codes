@@ -1,14 +1,11 @@
 from dataclasses import dataclass
 
+@dataclass 
 class Person:
     name: str
     job: str
     age: int
 
-    def __init__(self, name, job, age):
-        self.name = name
-        self.job = job
-        self.age = age
 
 person1 = Person("Seun", "Witcher", 30)
 person2 = Person("Yenner", "Craft", 25)
