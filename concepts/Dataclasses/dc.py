@@ -13,4 +13,5 @@ person3 = Person("Yenner", "Craft", 25)
 
 print(id(person2))
 print(id(person3))
-print(person2 == person3)
+print(person1.name)
+print(person2 == person3) #Result becomes true on using dataclass because they contain the same data
