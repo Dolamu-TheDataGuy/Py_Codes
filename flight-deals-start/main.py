@@ -13,9 +13,7 @@ sheet_data = data_manager.get_destination_data()
 # print(sheet_data)
 
 
-if sheet_data[0]["iataCode"] != "":
-    city_names = [row["city"] for row in sheet_data]
-    print(city_names)
+if sheet_data[0]["iataCode"] == "":
     flight_search = FlightSearch()
     for row in sheet_data:
         row["iataCode"] = flight_search.get_destination_code(row["city"])
@@ -39,8 +37,9 @@ for destination in sheet_data:
         six_month_from_today
     )
     
-if flight.prices < destination["lowestPrice"]:
-    NotificationManager().send_notification(
-        message=f"Low price alert! only ${flight.price} to fly from {flight.origin_city}-{flight.origin_airport} to {flight.destination_city}-{flight.destination_airport}"
-    )
+    if (flight is not None) and (flight.price < destination["lowestPrice"]):
+        NotificationManager().send_notification(
+            message=f"Low price alert! only ${flight.price} to fly from {flight.origin_city}-{flight.origin_airport} to {flight.destination_city}-{flight.destination_airport}"
+        )
+
 
