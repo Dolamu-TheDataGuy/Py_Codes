@@ -1,10 +1,14 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 
 @dataclass 
 class Person:
+    sort_index:int= field(init=False)
     name: str
     job: str
     age: int
+
+    def __post_init__(self):
+        self.sort_index = self.age
 
 
 person1 = Person("Seun", "Witcher", 30)
