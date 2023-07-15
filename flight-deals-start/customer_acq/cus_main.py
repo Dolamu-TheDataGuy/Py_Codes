@@ -1,3 +1,5 @@
+import sheety
+
 print("Welcome to Dolamu Flight Club")
 print("We find the best flight deals and email you")
 first_name = input("What is your first name? ").title()
@@ -13,3 +15,5 @@ while email != ag_email:
   if ag_email.lower() == "quit" or ag_email.lower() == "exit":
     exit()
 print("Welcome to the club")
+
+sheety.post_new_row(first_name=first_name, last_name=last_name, email=email)
