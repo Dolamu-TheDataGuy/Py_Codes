@@ -1,6 +1,7 @@
 import requests
 import cred
 import json
+import pprint
 from datetime import datetime, timedelta
 from flight_data import FlightData
 
@@ -11,7 +12,7 @@ class FlightSearch:
 
     def get_destination_code(self, city_name):
         # get destination code from Tequilla search API
-        location_endpoint = TEQUILA_ENDPOINT+"/locations/query"
+        location_endpoint = TEQUILA_ENDPOINT+"/locations/parameter"
         headers = {"apikey": TEQUILA_API_KEY}
         parameters = {"term": city_name, "location_types": "city"}
         response = requests.get(url=location_endpoint,headers=headers, params=parameters)
@@ -43,14 +44,39 @@ class FlightSearch:
         results = response.json()
         print(results)
         # save result in json file for proper accessibility
-        with open("data.json", "w") as f:
-            json.dump(results, f, indent=4)
+        # with open("data.json", "w") as f:
+        #     json.dump(results, f, indent=4)
 
         try:
             data = results["data"][0]
         except IndexError:
-            print(f"No flights found for {destination_city_code}")
-            return None
+            parameter["max_stopovers"] = 1
+            response = requests.get(
+                url=f"{TEQUILA_ENDPOINT}/v2/search",
+                headers=headers,
+                params=parameter,
+            )
+
+            try:
+                data = response.json()["data"][0]
+                pprint(data)
+            except IndexError:
+                return None
+            else:
+                flight_data = FlightData(
+                    price=data["price"],
+                    origin_city=data["route"][0]["cityFrom"],
+                    origin_airport=data["route"][0]["flyFrom"],
+                    destination_city=data["route"][1]["cityTo"],
+                    destination_airport=data["route"][1]["flyTo"],
+                    out_date=data["route"][0]["local_departure"].split("T")[0],
+                    return_date=data["route"][2]["local_departure"].split("T")[0],
+                    stop_overs=1,
+                    via_city=data["route"][0]["cityTo"]
+                )
+                print(f"{flight_data.destination_city}: ${flight_data.price}")
+                return flight_data
+        
         else:
             flight_data = FlightData(
                 price=data["price"],
@@ -59,13 +85,11 @@ class FlightSearch:
                 destination_city=data["route"][0]["cityTo"],
                 destination_airport=data["route"][0]["flyTo"],
                 flight_time=data["route"][0]["local_departure"].split("T")[0],
-                return_time=data["route"][1]["local_departure"].split("T")[0]
-
+                return_time=data["route"][1]["local_departure"].split("T")[0],
             )
-            print(f"{flight_data.destination_city}:${flight_data.price}")
-        return flight_data
-        
+            print(f"{flight_data.destination_city}: ${flight_data.price}")
+            return flight_data
 
 
-samp =  FlightSearch().research_flight("PAR","BEG", datetime.now()+timedelta(hours=24), datetime.now()+timedelta(days=180))
-samp
+# samp =  FlightSearch().research_flight("PAR","BEG", datetime.now()+timedelta(hours=24), datetime.now()+timedelta(days=180))
+# samp

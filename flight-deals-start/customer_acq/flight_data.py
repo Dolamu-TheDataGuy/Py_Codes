@@ -13,7 +13,7 @@ end_duration_frt = end_duration.strftime("%d/%m/%Y")
 
 class FlightData:
     #This class is responsible for structuring the flight data.
-    def __init__(self, price, origin_city, origin_airport, destination_city, destination_airport,flight_time, return_time) -> None:
+    def __init__(self, price, origin_city, origin_airport, destination_city, destination_airport, flight_time, return_time, stop_overs=0, via_city="") -> None:
         self.price = price
         self.origin_city = origin_city
         self.origin_airport = origin_airport
@@ -21,3 +21,18 @@ class FlightData:
         self.destination_airport = destination_airport
         self.flight_time = flight_time
         self.return_time = return_time
+        self.stop_overs = stop_overs
+        self.via_city = via_city
+
+
+@dataclass
+class FlightData:
+    price: int | float
+    origin_city: str
+    origin_airport: str
+    destination_city: str
+    destination_airport: str
+    flight_time: str
+    return_time: str
+    stop_overs: int = 0
+    via_city: str = ""
