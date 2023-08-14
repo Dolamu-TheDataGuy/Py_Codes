@@ -21,8 +21,8 @@ for article_tag in articles:
     article_links.append(article_link)
 
   
-article_upvote = [score.getText() for score in soup.find_all("span", class_="score")]
+article_upvote = [int(score.getText().split()[0]) for score in soup.find_all("span", class_="score")]
 
-print(article_texts)
-print(article_links)
+# print(article_texts)
+# print(article_links)
 print(article_upvote)
